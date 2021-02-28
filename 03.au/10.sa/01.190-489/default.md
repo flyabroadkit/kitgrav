@@ -1,0 +1,1260 @@
+---
+title: 澳大利亚南澳190/489州担保
+menu: SA 190/489
+taxonomy:
+    category: docs
+
+metadata:
+    refresh: 0
+    generator: 'flyabroad'
+    description: 'South Australia，南澳大利亚，简称SA，首府是阿德莱德。南澳的州担保包括190和489，都是可以去南澳全境。澳洲移民打分，通过分65分，190可以加5分，489偏远地区担保可以加10分，所以申请人申请南澳190州担保，分数达到60分就可以，申请南澳489，分数达到55分就可以，根据分数来考虑适合申请190还是489。'
+    keywords: 'SA南澳190/489州担保，澳大利亚移民，南澳移民，南澳技术移民'
+    author: '飞出国'
+---
+# 澳大利亚SA南澳州担保
+
+[飞出国](/home):南澳州担保既可以申请[190]签证，也可以申请[489]签证。[190]签证是一个一步到位的永久签证，申请州担保可得到额外的5分以达到[EOI]评分标准；[489]签证是一个为期四年的临时性签证，申请州担保可得到额外的10分以达到[EOI]评分标准，持有[489]签证的申请人只要满足在南澳居住两年并从事12个月全职（每周35小时）工作的要求，就可以转887签证达到永居的目的。
+
+## SA州担保申请条件 - 飞出国
+
+**1.SA州担保对申请人的总体要求：**
+
+1）**承诺：申请人需要承诺从抵达之日起在南澳生活和工作至少两年。**
+
+* 签证获得之前：
+    * 亲自对南澳进行深入且有意义的研究，并在网上申请表中提供想要移居南澳的理由；
+    * 研究南澳的就业机会以及职业的许可或注册要求；
+    * 如果申请人在澳大利亚境内，需要提供在南澳居住的证据以及证明大部分工作是在南澳进行。
+* 签证获得之后：
+    * 向南澳移民局在线登记抵达；
+    * 向南澳移民局在线提供最初两年的最新联系方式；
+    * 在南澳的前两年完成就业调查。
+* 过去六个月居住在澳大利亚其他州的申请人不能申请SA州担保；
+* 如果申请人目前在境外，过去十年在澳大利亚的其他州或领地学习或工作过，只能申请[489]签证；
+* 如果申请人在过去十年中曾在南澳和澳大利亚其他州或领地学习或工作做过，通常只能申请[489]签证，除非申请人对南澳的联系高于其他州或领地，被考虑的因素包括在南澳的时间、最近在澳洲的地点以及在那里做什么（如学习、工作）。
+    
+2）**年龄：提名时年龄不超过45岁。（注意移民局的审理周期避免超龄）**
+
+3）**职业：**
+      
+* 申请人的职业需在以下职业列表中：
+    * [SA州担保职业列表]：
+        * 需求度标注为高：所有人可以申请；
+        * 需求度标注为低：所有人可以申请；
+        * 需求度标注为受限：需满足特殊要求才能申请；
+    * [SA补充职业列表]：职业在澳洲短期职业列表（[STSOL]）之上，但没有在[SA州担保职业列表]中。
+* 申请[SA州担保职业列表]中的受限职业以及补充职业列表职业，不仅要满足SA州担保总体要求，还需满足以下条件之一：
+    * 申请人是南澳留学毕业生；
+    * 目前正在南澳从事技术工作的申请人；
+    * 有直系亲属在南澳的申请人；
+    * [EOI]评分能达到80分的高分类别申请人；
+* 选择[SA州担保职业列表]中注明“境外申请人仅限[489]”的职业申请[190]，要求申请人当前必须在南澳境内，并符合以下条件：
+    * 申请人为南澳留学生；
+    * 申请人在过去的12个月中在南澳从事技术工作。
+
+4）**职业评估：**
+
+* 申请人的提名职业需要通过相关机构的职业评估；
+* 南澳的国际留学毕业生也需通过相关专业的职业评估；
+* 职业评估有效期三年，某些职业可能具有更短的有效期。
+
+5）**工作经验：**
+        
+* 在过去三年中至少有一年技术工作经验，有些职业需要更高的工作经验要求，南澳的国际留学毕业生会获得工作经验的豁免；
+* 所从事的技能工作必须在[SA州担保职业列表]上，每周至少工作20小时，除非职业有要求，否则工作经验可以不是提名或密切相关职业，薪水必须满足该行业的最低工资标准；
+* 工作经验必须是完成学历之后的，某些职业可能会需要额外的工作经验，例如2年或3年；
+* 如需根据澳洲工作经验来满足工作经验要求，只认可最近六个月的澳洲工作经验。
+
+6）**语言要求：**
+        
+* 申请人必须满足提名职业的语言水平要求，南澳的国际毕业生可能被豁免语言要求；
+* 英国、加拿大、新西兰、美国或爱尔兰公民或护照持有者无需提供语言成绩；
+* 南澳移民局接受的英语考试包括：IELTS、OET、PTE Academic、TOEFL iBT、CAE（只认可2015年1月1日之后的），考试成绩有效期三年；
+* 某些职业评估机构可能会要求更高的英语水平，如果申请人的职业在南澳需要认证或注册，则需要满足认证或注册机构要求的英语水平；如果申请人目前注册为南澳的卫生或教育专业人士，需要上传一份注册资格证书并提供满足英语Competent水平（雅思4个6）的考试成绩，无需满足[SA州担保职业列表]上所列的额外英语要求；
+* 如果申请人当前正在南澳从事技能工作（每周至少20小时），则只需要满足DHA的最低英语要求，即雅思4个6的Competent English水平即可。
+
+7) **财政能力：**
+
+* 申请人必须确保到达南澳时有足够的安家资金，申请人的现金及资产达到以下要求：
+
+ | 家庭成员 - 飞出国 | 境外申请人流动资产要求 | 境内申请人流动资产要求
+------- | ------- | ------- | -------
+ | 主申 | 20000-25000澳币 | 5000-10000澳币
+ | 主申+1名随行 | 25000-30000澳币 | 10000-15000澳币
+ | 主申+2名随行 | 30000-35000澳币 | 15000-20000澳币
+ | 主申+3名随行 | 35000-40000澳币 | 20000-25000澳币
+
+* 到达南澳时，移民局建议境外申请人具备20000澳币流动资产，境内申请人具备5000澳币流动资产用于安家；
+* 南澳国际毕业生可以向其父母寻求财政支持，其父母需要填写财政能力声明表并于在线申请时上传。
+
+8) **EOI：**
+
+* 申请人的[EOI]评分既要符合DHA要求又要符合SA移民局要求；
+* 南澳移民局在线申请中的信息不得与[EOI]中的信息有任何差异；
+* 必须满足DHA规定的[190]/[489]签证所需的通过分数（目前为65分），注意有些职业需要更高的分数。
+
+**2.SA南澳州担保对特殊申请人的要求：**
+    
+1) **南澳国际留学毕业生**
+
+* 针对南澳国际留学毕业生的一般要求：
+    * 职业可以来自[SA州担保职业列表]（包括受限职业）以及[SA补充职业列表]，也可以将职业列表中标注为“境外申请仅限[489]”的职业作为申请[190]签证的职业；
+    * 满足南澳州担保[190]和[489]签证总体要求；
+    * 在南澳获得的学历专业必须与提名职业在相同领域；
+    * 申请人的南澳学历必须通过CRICOS注册，学历至少为1学年（最少46周CRICOS注册课程）；
+    * 如果申请人有在南澳以外地区进行的学习，必须满足学历的50%是在南澳完成的；
+    * 申请人在过去的三个月一直在南澳从事技术工作（每两周至少40小时）；或满足一般工作经验要求，如有澳洲工作经验可供参考，最近六个月的工作必须是在南澳的；或满足工作经验豁免要求；
+    * 如果申请人的职业要求在该领域额外的工作经验（例如2-5年相关工作经验），则申请人过去三个月必须正在南澳从事提名职业或者密切相关的职业（每两周至少40小时）；其中一些职业要求申请人毕业后的12个月一直在南澳从事提名职业或高度相关职业（或在南澳乡村地区工作六个月）（每两周至少40小时）；
+    * 如果技术工作经验可供参考，必须从事[SA州担保职业列表]上的职业，并且为毕业后工作经验。
+* 申请[SA州担保职业列表]中的受限职业以及[SA补充职业列表]职业，还需满足：
+    * 申请人必须已经完成了在南澳的学业；
+    * 在南澳完成了职业教育与培训（VET）或更高水平课程的国际留学毕业生：
+        * 目前在南澳居住，满足一般工作经验要求，或过去三个月一直在南澳从事技术工作；
+        * 目前居住在境外的不可以申请；
+    * 在南澳完成了本科以上课程的国际留学毕业生：
+        * 目前在南澳居住，满足一般工作经验要求，或过去三个月一直在南澳从事技术工作；
+        * 目前居住在境外的申请人，需要满足一般工作经验要求，如有澳洲工作经验可供参考，必须是最近6个月的南澳工作经验。
+    * 目前居住在澳大利亚其他州的南澳国际留学毕业生不可以申请。
+* 满足以下条件可以获得工作经验、财政能力和语言要求的豁免：
+    * 工作经验豁免：
+        * 申请人属于优异毕业生类别，毕业后继续居住在南澳，并且已经在南澳公立大学完成下列学历的学习(最近2年内）并能达到所要求的平均分，可申请[489]或[190]（一些职业仅限[489]）：
+            * 通过研究完成博士或硕士学位；
+            * 本科学习阶段平均分达到6.0或以上；
+            * 在南澳完成学士学位后获得一等荣誉；
+            * 在南澳完成学士学位后硕士课程平均分达到6.0或以上；
+        * 申请人为南澳国际留学毕业生，职业需求显示为高或低，毕业后将继续居住在南澳，并满足下列条件，可申请[489]签证：
+            * 雅思达到4个7的Proficient English水平；或雅思总分最低7.5分；
+            * 如果申请人的职业要求在该领域额外的工作经验（例如2-5年相关工作经验），则申请人过去三个月必须正在南澳从事提名职业或者密切相关的职业（每两周至少40小时）；其中一些职业要求申请人毕业后的12个月一直在南澳从事提名职业或高度相关职业（或在南澳乡村地区工作六个月）（每两周至少40小时）。
+    * 财政能力豁免：
+        * 申请人如果是一名澳大利亚国际留学毕业生，可以向父母申请经济支持，其父母需要完成财政能力声明；
+    * 英语豁免：
+        * 目前居住在南澳的优秀毕业生；
+        * 目前正在南澳从事技术工作（每两周至少40小时）；
+        * 但都必须满足DHA要求的雅思4个6的Competent English水平。
+
+**注：南澳的三所公立大学是：弗林德斯大学、阿德莱德大学和南澳大利亚大学；本科必须是至少三年制的学习。**
+
+2) **目前正在南澳工作的申请人**
+    
+* 职业可以来自[SA州担保职业列表]（包括受限职业）以及[SA补充职业列表]，也可以将职业列表中标注为“境外申请仅限[489]”的职业作为申请[190]签证的职业；
+* 最近6个月在南澳偏远地区，或最近12个月在大阿德莱德地区从事提名或密切相关职业（每周至少20个小时）；
+* 满足工作经验的要求；
+* 申请人的学历必须被职业评估机构认可并包含在职业评估当中，澳大利亚或海外的学历都可以被接受。
+
+3) **南澳连锁式亲属移民**
+
+* 职业可以是[SA州担保职业列表]中的受限职业以及[SA补充职业列表]中的职业；
+* 该类别只能申请[489]签证；
+* 具有本科以上学历，学历必须被职业评估机构认可并包含在职业评估当中，澳大利亚或海外的学历都可以被接受；
+* 有长期居住在南澳的直系亲属，并且其亲属需满足以下条件：
+    * 直系亲属包括申请人的祖父母、父母、兄弟姐妹，也可以是继父母、养父母及（继、养）兄弟姐妹；
+    * 年龄必须在18岁以上；
+    * 必须是澳大利亚公民或者永居居民或者南澳的[489]签证持有者；
+    * 目前居住在南澳，并且已经在此地至少居住了24个月；
+    * 需要填写一份法定声明，以确认符合所有连锁式移民的要求；
+* 如申请人居住在南澳以外的澳大利亚其他州将没有资格申请。
+    
+4) **高分类别申请人**
+
+* 如果申请人在DHA评分中获得80分（包括州担保的额外加分），即可以申请SA州担保职业列表中的受限职业以及补充职业列表中的职业（20180705新政）；
+* 既可以申请[190]签证，也可以申请[489]签证，注意某些职业仅限[489]签证；
+* 如果需要州担保10分额外加分以达到80分，只能申请[489]签证；
+* 南澳移民局要求申请人在提交在线申请时提供[EOI]分数文件，并会与DHA密切合作以确认分数；
+* 了解南澳的就业形势，确保自己具备工作所需要的培训、认证、注册等要求。
+
+## SA州担保申请流程 - 飞出国
+
+1. 向DHA递交[EOI]，选择南澳作为担保州，并且选择[190]签证或是[489]签证，记录[EOI] ID号码，在州担保申请时会用到；
+2. 通过SA南澳移民局网站提交州担保申请；
+3. 在线追踪申请状态，一旦被提名，信息将反应在南澳移民局的申请页面上；
+4. 州担保获批后，收到DHA发送的电子邮件，邀请申请人60天内递交签证申请；
+5. 向DHA申请签证。
+
+## SA州担保审理周期 - 飞出国
+
+三周。
+
+## SA州担保申请费用 - 飞出国
+
+200澳币。
+
+## SA州担保材料清单 - 飞出国
+
+1. 有效护照上的个人详细信息页副本；
+2. 提名职业的职业评估函，南澳的国际毕业生必须提供提名职业且在南澳学习阶段所学专业领域职业评估函；
+3. 详细的英语考试成绩；
+4. 国际毕业生需提供财政能力详细信息或财政能力声明；
+5. 用于说明工作经验的雇主信，需包含：雇佣日期、职衔、职责与任务、薪水和每周工作时间。如果申请人的职业需要额外的2-3年的工作经验，也需要在雇主信中说明；
+6. 国际毕业生、高分类别申请人、目前正在南澳工作的申请人还需提供高等教育资格证明；
+7. 如需申请配偶技术加分或社区语言加分需提供证明；
+8. 连锁式亲属移民还需提供家庭关系证明--出生证、结婚证、更改姓名证明复印件；
+9. 证明南澳亲属是澳大利亚公民或永居居民，并在过去的12个月内一直居住在南澳。
+
+----
+
+> 以上内容由[飞出国](http://js.flyabroad.com.hk/)独家整理完成，请尊重知识产权，转载请保留并注明出处。（2018-10-30更新）
+
+## 十年美加澳新专业移民团队！如有疑问，码上联系 ↓ ##
+
+![http://wx2.sinaimg.cn/large/67e2e798ly1fp356uwedmj20p00bjwis.jpg](http://wx2.sinaimg.cn/large/67e2e798ly1fp356uwedmj20p00bjwis.jpg)
+
+![http://wx3.sinaimg.cn/large/67e2e798ly1fpa1k1idyuj20p00bjaec.jpg](http://wx3.sinaimg.cn/large/67e2e798ly1fpa1k1idyuj20p00bjaec.jpg)
+
+[141999]: http://bbs.fcgvisa.com/t/flyabroad/1093?target=blank
+[221111]: http://bbs.fcgvisa.com/t/flyabroad/895?target=blank
+[224111]: http://bbs.fcgvisa.com/t/flyabroad/921?target=blank
+[252211]: http://bbs.fcgvisa.com/t/flyabroad/1453?target=blank
+[131113]: http://bbs.fcgvisa.com/t/flyabroad/998?target=blank
+[225111]: http://bbs.fcgvisa.com/t/flyabroad/953?target=blank
+[233911]: http://bbs.fcgvisa.com/t/flyabroad/1016?target=blank
+[231111]: http://bbs.fcgvisa.com/t/flyabroad/966?target=blank
+[234111]: http://bbs.fcgvisa.com/t/flyabroad/1023?target=blank
+[233912]: http://bbs.fcgvisa.com/t/flyabroad/1017?target=blank
+[234112]: http://bbs.fcgvisa.com/t/flyabroad/1024?target=blank
+[311111]: http://bbs.fcgvisa.com/t/flyabroad/1152?target=blank
+[334112]: http://bbs.fcgvisa.com/t/flyabroad/1250?target=blank
+[342111]: http://bbs.fcgvisa.com/t/flyabroad/1309?target=blank
+[323111]: http://bbs.fcgvisa.com/t/flyabroad/1216?target=blank
+[323112]: http://bbs.fcgvisa.com/t/flyabroad/1217?target=blank
+[323113]: http://bbs.fcgvisa.com/t/flyabroad/1218?target=blank
+[411111]: http://bbs.fcgvisa.com/t/flyabroad/1294?target=blank
+[149111]: http://bbs.fcgvisa.com/t/flyabroad/1100?target=blank
+[311211]: http://bbs.fcgvisa.com/t/flyabroad/1153?target=blank
+[253211]: http://bbs.fcgvisa.com/t/flyabroad/1432?target=blank
+[261311]: http://bbs.fcgvisa.com/t/flyabroad/1272?target=blank
+[361199]: http://bbs.fcgvisa.com/t/flyabroad/1332?target=blank
+[121311]: http://bbs.fcgvisa.com/t/flyabroad/942?target=blank
+[121111]: http://bbs.fcgvisa.com/t/flyabroad/875?target=blank
+[362212]: http://bbs.fcgvisa.com/t/flyabroad/1337?target=blank
+[232111]: http://bbs.fcgvisa.com/t/flyabroad/977?target=blank
+[312111]: http://bbs.fcgvisa.com/t/flyabroad/1170?target=blank
+[312199]: http://bbs.fcgvisa.com/t/flyabroad/1176?target=blank
+[249211]: http://bbs.fcgvisa.com/t/flyabroad/1606?target=blank
+[212111]: http://bbs.fcgvisa.com/t/flyabroad/863?target=blank
+[139911]: http://bbs.fcgvisa.com/t/flyabroad/1081?target=blank
+[252711]: http://bbs.fcgvisa.com/t/flyabroad/1437?target=blank
+[321111]: http://bbs.fcgvisa.com/t/flyabroad/1200?target=blank
+[351111]: http://bbs.fcgvisa.com/t/flyabroad/1322?target=blank
+[271111]: http://bbs.fcgvisa.com/t/flyabroad/1115?target=blank
+[121312]: http://bbs.fcgvisa.com/t/flyabroad/943?target=blank
+[234513]: http://bbs.fcgvisa.com/t/flyabroad/1038?target=blank
+[233913]: http://bbs.fcgvisa.com/t/flyabroad/1018?target=blank
+[234514]: http://bbs.fcgvisa.com/t/flyabroad/1039?target=blank
+[399111]: http://bbs.fcgvisa.com/t/flyabroad/1366?target=blank
+[212212]: http://bbs.fcgvisa.com/t/flyabroad/870?target=blank
+[234515]: http://bbs.fcgvisa.com/t/flyabroad/1040?target=blank
+[331111]: http://bbs.fcgvisa.com/t/flyabroad/1237?target=blank
+[312999]: http://bbs.fcgvisa.com/t/flyabroad/1191?target=blank
+[312113]: http://bbs.fcgvisa.com/t/flyabroad/1172?target=blank
+[342311]: http://bbs.fcgvisa.com/t/flyabroad/1313?target=blank
+[351211]: http://bbs.fcgvisa.com/t/flyabroad/1324?target=blank
+[394111]: http://bbs.fcgvisa.com/t/flyabroad/1358?target=blank
+[342411]: http://bbs.fcgvisa.com/t/flyabroad/1318?target=blank
+[141111]: http://bbs.fcgvisa.com/t/flyabroad/1087?target=blank
+[399512]: http://bbs.fcgvisa.com/t/flyabroad/1380?target=blank
+[141211]: http://bbs.fcgvisa.com/t/flyabroad/1088?target=blank
+[311212]: http://bbs.fcgvisa.com/t/flyabroad/1154?target=blank
+[253312]: http://bbs.fcgvisa.com/t/flyabroad/1430?target=blank
+[253512]: http://bbs.fcgvisa.com/t/flyabroad/1415?target=blank
+[272111]: http://bbs.fcgvisa.com/t/flyabroad/1122?target=blank
+[331212]: http://bbs.fcgvisa.com/t/flyabroad/1240?target=blank
+[331211]: http://bbs.fcgvisa.com/t/flyabroad/1239?target=blank
+[232213]: http://bbs.fcgvisa.com/t/flyabroad/980?target=blank
+[351311]: http://bbs.fcgvisa.com/t/flyabroad/1325?target=blank
+[233111]: http://bbs.fcgvisa.com/t/flyabroad/993?target=blank
+[399211]: http://bbs.fcgvisa.com/t/flyabroad/1369?target=blank
+[234211]: http://bbs.fcgvisa.com/t/flyabroad/1026?target=blank
+[311411]: http://bbs.fcgvisa.com/t/flyabroad/1164?target=blank
+[111111]: http://bbs.fcgvisa.com/t/flyabroad/848?target=blank
+[135111]: http://bbs.fcgvisa.com/t/flyabroad/1074?target=blank
+[134111]: http://bbs.fcgvisa.com/t/flyabroad/1063?target=blank
+[252111]: http://bbs.fcgvisa.com/t/flyabroad/1455?target=blank
+[149912]: http://bbs.fcgvisa.com/t/flyabroad/1111?target=blank
+[233211]: http://bbs.fcgvisa.com/t/flyabroad/996?target=blank
+[312211]: http://bbs.fcgvisa.com/t/flyabroad/1177?target=blank
+[312212]: http://bbs.fcgvisa.com/t/flyabroad/1178?target=blank
+[599915]: http://bbs.fcgvisa.com/t/flyabroad/1534?target=blank
+[253313]: http://bbs.fcgvisa.com/t/flyabroad/1429?target=blank
+[272311]: http://bbs.fcgvisa.com/t/flyabroad/1129?target=blank
+[222111]: http://bbs.fcgvisa.com/t/flyabroad/902?target=blank
+[272611]: http://bbs.fcgvisa.com/t/flyabroad/1140?target=blank
+[411711]: http://bbs.fcgvisa.com/t/flyabroad/1478?target=blank
+[221211]: http://bbs.fcgvisa.com/t/flyabroad/898?target=blank
+[252299]: http://bbs.fcgvisa.com/t/flyabroad/1448?target=blank
+[263111]: http://bbs.fcgvisa.com/t/flyabroad/1280?target=blank
+[149311]: http://bbs.fcgvisa.com/t/flyabroad/1106?target=blank
+[234311]: http://bbs.fcgvisa.com/t/flyabroad/1029?target=blank
+[234911]: http://bbs.fcgvisa.com/t/flyabroad/1048?target=blank
+[312114]: http://bbs.fcgvisa.com/t/flyabroad/1173?target=blank
+[133111]: http://bbs.fcgvisa.com/t/flyabroad/1014?target=blank
+[511111]: http://bbs.fcgvisa.com/t/flyabroad/1492?target=blank
+[351411]: http://bbs.fcgvisa.com/t/flyabroad/1326?target=blank
+[212411]: http://bbs.fcgvisa.com/t/flyabroad/885?target=blank
+[111211]: http://bbs.fcgvisa.com/t/flyabroad/849?target=blank
+[132111]: http://bbs.fcgvisa.com/t/flyabroad/1003?target=blank
+[121211]: http://bbs.fcgvisa.com/t/flyabroad/878?target=blank
+[272199]: http://bbs.fcgvisa.com/t/flyabroad/1127?target=blank
+[121299]: http://bbs.fcgvisa.com/t/flyabroad/939?target=blank
+[149212]: http://bbs.fcgvisa.com/t/flyabroad/1105?target=blank
+[121313]: http://bbs.fcgvisa.com/t/flyabroad/944?target=blank
+[249212]: http://bbs.fcgvisa.com/t/flyabroad/1607?target=blank
+[211112]: http://bbs.fcgvisa.com/t/flyabroad/914?target=blank
+[262111]: http://bbs.fcgvisa.com/t/flyabroad/1277?target=blank
+[411211]: http://bbs.fcgvisa.com/t/flyabroad/1404?target=blank
+[252311]: http://bbs.fcgvisa.com/t/flyabroad/1447?target=blank
+[411213]: http://bbs.fcgvisa.com/t/flyabroad/1412?target=blank
+[411214]: http://bbs.fcgvisa.com/t/flyabroad/1417?target=blank
+[252312]: http://bbs.fcgvisa.com/t/flyabroad/1446?target=blank
+[253911]: http://bbs.fcgvisa.com/t/flyabroad/1400?target=blank
+[261312]: http://bbs.fcgvisa.com/t/flyabroad/1273?target=blank
+[253917]: http://bbs.fcgvisa.com/t/flyabroad/1388?target=blank
+[321212]: http://bbs.fcgvisa.com/t/flyabroad/1202?target=blank
+[251111]: http://bbs.fcgvisa.com/t/flyabroad/1471?target=blank
+[212312]: http://bbs.fcgvisa.com/t/flyabroad/872?target=blank
+[411712]: http://bbs.fcgvisa.com/t/flyabroad/1479?target=blank
+[411311]: http://bbs.fcgvisa.com/t/flyabroad/1472?target=blank
+[452311]: http://bbs.fcgvisa.com/t/flyabroad/1504?target=blank
+[361111]: http://bbs.fcgvisa.com/t/flyabroad/1327?target=blank
+[334113]: http://bbs.fcgvisa.com/t/flyabroad/1251?target=blank
+[393213]: http://bbs.fcgvisa.com/t/flyabroad/1353?target=blank
+[451211]: http://bbs.fcgvisa.com/t/flyabroad/1493?target=blank
+[272112]: http://bbs.fcgvisa.com/t/flyabroad/1123?target=blank
+[241111]: http://bbs.fcgvisa.com/t/flyabroad/1587?target=blank
+[311412]: http://bbs.fcgvisa.com/t/flyabroad/1165?target=blank
+[224311]: http://bbs.fcgvisa.com/t/flyabroad/930?target=blank
+[249111]: http://bbs.fcgvisa.com/t/flyabroad/1604?target=blank
+[134499]: http://bbs.fcgvisa.com/t/flyabroad/1073?target=blank
+[272312]: http://bbs.fcgvisa.com/t/flyabroad/1130?target=blank
+[233311]: http://bbs.fcgvisa.com/t/flyabroad/1005?target=blank
+[312311]: http://bbs.fcgvisa.com/t/flyabroad/1179?target=blank
+[312312]: http://bbs.fcgvisa.com/t/flyabroad/1180?target=blank
+[342211]: http://bbs.fcgvisa.com/t/flyabroad/1311?target=blank
+[341111]: http://bbs.fcgvisa.com/t/flyabroad/1301?target=blank
+[341112]: http://bbs.fcgvisa.com/t/flyabroad/1303?target=blank
+[342313]: http://bbs.fcgvisa.com/t/flyabroad/1315?target=blank
+[342314]: http://bbs.fcgvisa.com/t/flyabroad/1316?target=blank
+[342315]: http://bbs.fcgvisa.com/t/flyabroad/1317?target=blank
+[233411]: http://bbs.fcgvisa.com/t/flyabroad/1006?target=blank
+[253912]: http://bbs.fcgvisa.com/t/flyabroad/1397?target=blank
+[441211]: http://bbs.fcgvisa.com/t/flyabroad/1486?target=blank
+[253315]: http://bbs.fcgvisa.com/t/flyabroad/1427?target=blank
+[133211]: http://bbs.fcgvisa.com/t/flyabroad/1054?target=blank
+[233999]: http://bbs.fcgvisa.com/t/flyabroad/1022?target=blank
+[233914]: http://bbs.fcgvisa.com/t/flyabroad/1019?target=blank
+[411411]: http://bbs.fcgvisa.com/t/flyabroad/1473?target=blank
+[234312]: http://bbs.fcgvisa.com/t/flyabroad/1030?target=blank
+[233915]: http://bbs.fcgvisa.com/t/flyabroad/1020?target=blank
+[251311]: http://bbs.fcgvisa.com/t/flyabroad/1465?target=blank
+[139912]: http://bbs.fcgvisa.com/t/flyabroad/1082?target=blank
+[234313]: http://bbs.fcgvisa.com/t/flyabroad/1031?target=blank
+[234399]: http://bbs.fcgvisa.com/t/flyabroad/1033?target=blank
+[234915]: http://bbs.fcgvisa.com/t/flyabroad/13038?target=blank
+[221213]: http://bbs.fcgvisa.com/t/flyabroad/900?target=blank
+[149913]: http://bbs.fcgvisa.com/t/flyabroad/1112?target=blank
+[134411]: http://bbs.fcgvisa.com/t/flyabroad/1071?target=blank
+[272113]: http://bbs.fcgvisa.com/t/flyabroad/1124?target=blank
+[411713]: http://bbs.fcgvisa.com/t/flyabroad/1480?target=blank
+[322113]: http://bbs.fcgvisa.com/t/flyabroad/1207?target=blank
+[232311]: http://bbs.fcgvisa.com/t/flyabroad/982?target=blank
+[333211]: http://bbs.fcgvisa.com/t/flyabroad/1245?target=blank
+[212314]: http://bbs.fcgvisa.com/t/flyabroad/876?target=blank
+[222112]: http://bbs.fcgvisa.com/t/flyabroad/904?target=blank
+[132211]: http://bbs.fcgvisa.com/t/flyabroad/1004?target=blank
+[222199]: http://bbs.fcgvisa.com/t/flyabroad/906?target=blank
+[222299]: http://bbs.fcgvisa.com/t/flyabroad/910?target=blank
+[149914]: http://bbs.fcgvisa.com/t/flyabroad/1113?target=blank
+[222311]: http://bbs.fcgvisa.com/t/flyabroad/911?target=blank
+[222312]: http://bbs.fcgvisa.com/t/flyabroad/915?target=blank
+[222211]: http://bbs.fcgvisa.com/t/flyabroad/907?target=blank
+[451815]: http://bbs.fcgvisa.com/t/flyabroad/1502?target=blank
+[149112]: http://bbs.fcgvisa.com/t/flyabroad/1101?target=blank
+[323211]: http://bbs.fcgvisa.com/t/flyabroad/1219?target=blank
+[323212]: http://bbs.fcgvisa.com/t/flyabroad/1220?target=blank
+[323213]: http://bbs.fcgvisa.com/t/flyabroad/1221?target=blank
+[451711]: http://bbs.fcgvisa.com/t/flyabroad/1498?target=blank
+[332111]: http://bbs.fcgvisa.com/t/flyabroad/1242?target=blank
+[362111]: http://bbs.fcgvisa.com/t/flyabroad/1335?target=blank
+[121212]: http://bbs.fcgvisa.com/t/flyabroad/882?target=blank
+[231113]: http://bbs.fcgvisa.com/t/flyabroad/968?target=blank
+[234212]: http://bbs.fcgvisa.com/t/flyabroad/1027?target=blank
+[452411]: http://bbs.fcgvisa.com/t/flyabroad/1524?target=blank
+[234113]: http://bbs.fcgvisa.com/t/flyabroad/1025?target=blank
+[121213]: http://bbs.fcgvisa.com/t/flyabroad/884?target=blank
+[451399]: http://bbs.fcgvisa.com/t/flyabroad/1496?target=blank
+[394211]: http://bbs.fcgvisa.com/t/flyabroad/1359?target=blank
+[224212]: http://bbs.fcgvisa.com/t/flyabroad/925?target=blank
+[362211]: http://bbs.fcgvisa.com/t/flyabroad/1336?target=blank
+[399212]: http://bbs.fcgvisa.com/t/flyabroad/1370?target=blank
+[334114]: http://bbs.fcgvisa.com/t/flyabroad/1252?target=blank
+[253316]: http://bbs.fcgvisa.com/t/flyabroad/1426?target=blank
+[253111]: http://bbs.fcgvisa.com/t/flyabroad/1435?target=blank
+[234411]: http://bbs.fcgvisa.com/t/flyabroad/1034?target=blank
+[234412]: http://bbs.fcgvisa.com/t/flyabroad/1035?target=blank
+[233212]: http://bbs.fcgvisa.com/t/flyabroad/997?target=blank
+[333111]: http://bbs.fcgvisa.com/t/flyabroad/1244?target=blank
+[121214]: http://bbs.fcgvisa.com/t/flyabroad/886?target=blank
+[121215]: http://bbs.fcgvisa.com/t/flyabroad/891?target=blank
+[232411]: http://bbs.fcgvisa.com/t/flyabroad/985?target=blank
+[362311]: http://bbs.fcgvisa.com/t/flyabroad/1339?target=blank
+[452312]: http://bbs.fcgvisa.com/t/flyabroad/1506?target=blank
+[391111]: http://bbs.fcgvisa.com/t/flyabroad/1341?target=blank
+[313111]: http://bbs.fcgvisa.com/t/flyabroad/1192?target=blank
+[134299]: http://bbs.fcgvisa.com/t/flyabroad/1069?target=blank
+[251999]: http://bbs.fcgvisa.com/t/flyabroad/1456?target=blank
+[224213]: http://bbs.fcgvisa.com/t/flyabroad/927?target=blank
+[251911]: http://bbs.fcgvisa.com/t/flyabroad/1458?target=blank
+[231114]: http://bbs.fcgvisa.com/t/flyabroad/969?target=blank
+[121316]: http://bbs.fcgvisa.com/t/flyabroad/947?target=blank
+[452313]: http://bbs.fcgvisa.com/t/flyabroad/1507?target=blank
+[361112]: http://bbs.fcgvisa.com/t/flyabroad/1328?target=blank
+[251511]: http://bbs.fcgvisa.com/t/flyabroad/1461?target=blank
+[141311]: http://bbs.fcgvisa.com/t/flyabroad/1089?target=blank
+[223111]: http://bbs.fcgvisa.com/t/flyabroad/916?target=blank
+[132311]: http://bbs.fcgvisa.com/t/flyabroad/1011?target=blank
+[234413]: http://bbs.fcgvisa.com/t/flyabroad/13037?target=blank
+[225211]: http://bbs.fcgvisa.com/t/flyabroad/957?target=blank
+[261111]: http://bbs.fcgvisa.com/t/flyabroad/1268?target=blank
+[225212]: http://bbs.fcgvisa.com/t/flyabroad/958?target=blank
+[313112]: http://bbs.fcgvisa.com/t/flyabroad/1193?target=blank
+[135199]: http://bbs.fcgvisa.com/t/flyabroad/1076?target=blank
+[135112]: http://bbs.fcgvisa.com/t/flyabroad/1075?target=blank
+[263211]: http://bbs.fcgvisa.com/t/flyabroad/1283?target=blank
+[225213]: http://bbs.fcgvisa.com/t/flyabroad/960?target=blank
+[262112]: http://bbs.fcgvisa.com/t/flyabroad/1278?target=blank
+[263299]: http://bbs.fcgvisa.com/t/flyabroad/1286?target=blank
+[263212]: http://bbs.fcgvisa.com/t/flyabroad/1284?target=blank
+[313199]: http://bbs.fcgvisa.com/t/flyabroad/1195?target=blank
+[263213]: http://bbs.fcgvisa.com/t/flyabroad/1285?target=blank
+[223211]: http://bbs.fcgvisa.com/t/flyabroad/919?target=blank
+[232412]: http://bbs.fcgvisa.com/t/flyabroad/986?target=blank
+[232312]: http://bbs.fcgvisa.com/t/flyabroad/983?target=blank
+[233511]: http://bbs.fcgvisa.com/t/flyabroad/1007?target=blank
+[251512]: http://bbs.fcgvisa.com/t/flyabroad/1460?target=blank
+[224999]: http://bbs.fcgvisa.com/t/flyabroad/951?target=blank
+[611211]: http://bbs.fcgvisa.com/t/flyabroad/1537?target=blank
+[222113]: http://bbs.fcgvisa.com/t/flyabroad/905?target=blank
+[599612]: http://bbs.fcgvisa.com/t/flyabroad/1531?target=blank
+[271214]: http://bbs.fcgvisa.com/t/flyabroad/1119?target=blank
+[411112]: http://bbs.fcgvisa.com/t/flyabroad/1295?target=blank
+[253317]: http://bbs.fcgvisa.com/t/flyabroad/1425?target=blank
+[232511]: http://bbs.fcgvisa.com/t/flyabroad/990?target=blank
+[221214]: http://bbs.fcgvisa.com/t/flyabroad/901?target=blank
+[272412]: http://bbs.fcgvisa.com/t/flyabroad/1135?target=blank
+[399411]: http://bbs.fcgvisa.com/t/flyabroad/1377?target=blank
+[232313]: http://bbs.fcgvisa.com/t/flyabroad/984?target=blank
+[452413]: http://bbs.fcgvisa.com/t/flyabroad/1528?target=blank
+[331213]: http://bbs.fcgvisa.com/t/flyabroad/1241?target=blank
+[212499]: http://bbs.fcgvisa.com/t/flyabroad/894?target=blank
+[271299]: http://bbs.fcgvisa.com/t/flyabroad/1120?target=blank
+[139913]: http://bbs.fcgvisa.com/t/flyabroad/1083?target=blank
+[224511]: http://bbs.fcgvisa.com/t/flyabroad/934?target=blank
+[232112]: http://bbs.fcgvisa.com/t/flyabroad/978?target=blank
+[362213]: http://bbs.fcgvisa.com/t/flyabroad/1338?target=blank
+[224912]: http://bbs.fcgvisa.com/t/flyabroad/941?target=blank
+[224611]: http://bbs.fcgvisa.com/t/flyabroad/936?target=blank
+[399312]: http://bbs.fcgvisa.com/t/flyabroad/1374?target=blank
+[311413]: http://bbs.fcgvisa.com/t/flyabroad/1166?target=blank
+[234511]: http://bbs.fcgvisa.com/t/flyabroad/1036?target=blank
+[234599]: http://bbs.fcgvisa.com/t/flyabroad/1044?target=blank
+[341113]: http://bbs.fcgvisa.com/t/flyabroad/1305?target=blank
+[121399]: http://bbs.fcgvisa.com/t/flyabroad/988?target=blank
+[323313]: http://bbs.fcgvisa.com/t/flyabroad/1227?target=blank
+[312911]: http://bbs.fcgvisa.com/t/flyabroad/1188?target=blank
+[399514]: http://bbs.fcgvisa.com/t/flyabroad/1383?target=blank
+[221112]: http://bbs.fcgvisa.com/t/flyabroad/896?target=blank
+[224711]: http://bbs.fcgvisa.com/t/flyabroad/937?target=blank
+[133411]: http://bbs.fcgvisa.com/t/flyabroad/1057?target=blank
+[234516]: http://bbs.fcgvisa.com/t/flyabroad/1041?target=blank
+[225112]: http://bbs.fcgvisa.com/t/flyabroad/954?target=blank
+[225113]: http://bbs.fcgvisa.com/t/flyabroad/956?target=blank
+[411611]: http://bbs.fcgvisa.com/t/flyabroad/1477?target=blank
+[233112]: http://bbs.fcgvisa.com/t/flyabroad/994?target=blank
+[224112]: http://bbs.fcgvisa.com/t/flyabroad/922?target=blank
+[311312]: http://bbs.fcgvisa.com/t/flyabroad/1161?target=blank
+[233512]: http://bbs.fcgvisa.com/t/flyabroad/1008?target=blank
+[312511]: http://bbs.fcgvisa.com/t/flyabroad/1183?target=blank
+[312512]: http://bbs.fcgvisa.com/t/flyabroad/1184?target=blank
+[134211]: http://bbs.fcgvisa.com/t/flyabroad/1064?target=blank
+[251211]: http://bbs.fcgvisa.com/t/flyabroad/1469?target=blank
+[234611]: http://bbs.fcgvisa.com/t/flyabroad/1045?target=blank
+[311213]: http://bbs.fcgvisa.com/t/flyabroad/1155?target=blank
+[253314]: http://bbs.fcgvisa.com/t/flyabroad/1428?target=blank
+[253999]: http://bbs.fcgvisa.com/t/flyabroad/1382?target=blank
+[251212]: http://bbs.fcgvisa.com/t/flyabroad/1468?target=blank
+[311299]: http://bbs.fcgvisa.com/t/flyabroad/1159?target=blank
+[322311]: http://bbs.fcgvisa.com/t/flyabroad/1213?target=blank
+[323299]: http://bbs.fcgvisa.com/t/flyabroad/1224?target=blank
+[323214]: http://bbs.fcgvisa.com/t/flyabroad/1222?target=blank
+[312912]: http://bbs.fcgvisa.com/t/flyabroad/1189?target=blank
+[234912]: http://bbs.fcgvisa.com/t/flyabroad/1049?target=blank
+[234913]: http://bbs.fcgvisa.com/t/flyabroad/1050?target=blank
+[234517]: http://bbs.fcgvisa.com/t/flyabroad/1042?target=blank
+[241311]: http://bbs.fcgvisa.com/t/flyabroad/1593?target=blank
+[254111]: http://bbs.fcgvisa.com/t/flyabroad/1379?target=blank
+[312913]: http://bbs.fcgvisa.com/t/flyabroad/1190?target=blank
+[233611]: http://bbs.fcgvisa.com/t/flyabroad/1010?target=blank
+[272211]: http://bbs.fcgvisa.com/t/flyabroad/1128?target=blank
+[121411]: http://bbs.fcgvisa.com/t/flyabroad/991?target=blank
+[121216]: http://bbs.fcgvisa.com/t/flyabroad/903?target=blank
+[121317]: http://bbs.fcgvisa.com/t/flyabroad/948?target=blank
+[321211]: http://bbs.fcgvisa.com/t/flyabroad/1201?target=blank
+[321213]: http://bbs.fcgvisa.com/t/flyabroad/1203?target=blank
+[232413]: http://bbs.fcgvisa.com/t/flyabroad/987?target=blank
+[261211]: http://bbs.fcgvisa.com/t/flyabroad/1270?target=blank
+[211212]: http://bbs.fcgvisa.com/t/flyabroad/853?target=blank
+[211299]: http://bbs.fcgvisa.com/t/flyabroad/856?target=blank
+[249214]: http://bbs.fcgvisa.com/t/flyabroad/1609?target=blank
+[211213]: http://bbs.fcgvisa.com/t/flyabroad/854?target=blank
+[234999]: http://bbs.fcgvisa.com/t/flyabroad/1052?target=blank
+[252213]: http://bbs.fcgvisa.com/t/flyabroad/1451?target=blank
+[233916]: http://bbs.fcgvisa.com/t/flyabroad/1021?target=blank
+[263112]: http://bbs.fcgvisa.com/t/flyabroad/1281?target=blank
+[263113]: http://bbs.fcgvisa.com/t/flyabroad/1282?target=blank
+[253318]: http://bbs.fcgvisa.com/t/flyabroad/1424?target=blank
+[253513]: http://bbs.fcgvisa.com/t/flyabroad/1414?target=blank
+[212412]: http://bbs.fcgvisa.com/t/flyabroad/887?target=blank
+[251213]: http://bbs.fcgvisa.com/t/flyabroad/1467?target=blank
+[254211]: http://bbs.fcgvisa.com/t/flyabroad/1375?target=blank
+[254311]: http://bbs.fcgvisa.com/t/flyabroad/1367?target=blank
+[254411]: http://bbs.fcgvisa.com/t/flyabroad/1364?target=blank
+[254212]: http://bbs.fcgvisa.com/t/flyabroad/1371?target=blank
+[362411]: http://bbs.fcgvisa.com/t/flyabroad/1340?target=blank
+[134212]: http://bbs.fcgvisa.com/t/flyabroad/1065?target=blank
+[251112]: http://bbs.fcgvisa.com/t/flyabroad/1470?target=blank
+[253913]: http://bbs.fcgvisa.com/t/flyabroad/1395?target=blank
+[251312]: http://bbs.fcgvisa.com/t/flyabroad/1464?target=blank
+[252411]: http://bbs.fcgvisa.com/t/flyabroad/1445?target=blank
+[311214]: http://bbs.fcgvisa.com/t/flyabroad/1156?target=blank
+[253914]: http://bbs.fcgvisa.com/t/flyabroad/1393?target=blank
+[251411]: http://bbs.fcgvisa.com/t/flyabroad/1463?target=blank
+[224712]: http://bbs.fcgvisa.com/t/flyabroad/938?target=blank
+[272313]: http://bbs.fcgvisa.com/t/flyabroad/1131?target=blank
+[253514]: http://bbs.fcgvisa.com/t/flyabroad/1413?target=blank
+[251412]: http://bbs.fcgvisa.com/t/flyabroad/1462?target=blank
+[251912]: http://bbs.fcgvisa.com/t/flyabroad/1457?target=blank
+[252112]: http://bbs.fcgvisa.com/t/flyabroad/1454?target=blank
+[232214]: http://bbs.fcgvisa.com/t/flyabroad/981?target=blank
+[452317]: http://bbs.fcgvisa.com/t/flyabroad/1515?target=blank
+[253515]: http://bbs.fcgvisa.com/t/flyabroad/1411?target=blank
+[253516]: http://bbs.fcgvisa.com/t/flyabroad/1410?target=blank
+[253321]: http://bbs.fcgvisa.com/t/flyabroad/1423?target=blank
+[332211]: http://bbs.fcgvisa.com/t/flyabroad/1243?target=blank
+[324111]: http://bbs.fcgvisa.com/t/flyabroad/1233?target=blank
+[351112]: http://bbs.fcgvisa.com/t/flyabroad/1323?target=blank
+[224914]: http://bbs.fcgvisa.com/t/flyabroad/950?target=blank
+[253915]: http://bbs.fcgvisa.com/t/flyabroad/1391?target=blank
+[311216]: http://bbs.fcgvisa.com/t/flyabroad/1158?target=blank
+[399599]: http://bbs.fcgvisa.com/t/flyabroad/1389?target=blank
+[233612]: http://bbs.fcgvisa.com/t/flyabroad/1015?target=blank
+[311215]: http://bbs.fcgvisa.com/t/flyabroad/1157?target=blank
+[211311]: http://bbs.fcgvisa.com/t/flyabroad/857?target=blank
+[234914]: http://bbs.fcgvisa.com/t/flyabroad/1051?target=blank
+[252511]: http://bbs.fcgvisa.com/t/flyabroad/1444?target=blank
+[121318]: http://bbs.fcgvisa.com/t/flyabroad/952?target=blank
+[253517]: http://bbs.fcgvisa.com/t/flyabroad/1408?target=blank
+[334111]: http://bbs.fcgvisa.com/t/flyabroad/1249?target=blank
+[252611]: http://bbs.fcgvisa.com/t/flyabroad/1443?target=blank
+[224412]: http://bbs.fcgvisa.com/t/flyabroad/932?target=blank
+[132411]: http://bbs.fcgvisa.com/t/flyabroad/1012?target=blank
+[142115]: http://bbs.fcgvisa.com/t/flyabroad/1098?target=blank
+[121321]: http://bbs.fcgvisa.com/t/flyabroad/955?target=blank
+[399213]: http://bbs.fcgvisa.com/t/flyabroad/1372?target=blank
+[323314]: http://bbs.fcgvisa.com/t/flyabroad/1228?target=blank
+[322312]: http://bbs.fcgvisa.com/t/flyabroad/1214?target=blank
+[134213]: http://bbs.fcgvisa.com/t/flyabroad/1067?target=blank
+[311399]: http://bbs.fcgvisa.com/t/flyabroad/1163?target=blank
+[241213]: http://bbs.fcgvisa.com/t/flyabroad/1592?target=blank
+[392111]: http://bbs.fcgvisa.com/t/flyabroad/1342?target=blank
+[212413]: http://bbs.fcgvisa.com/t/flyabroad/888?target=blank
+[392311]: http://bbs.fcgvisa.com/t/flyabroad/1345?target=blank
+[249299]: http://bbs.fcgvisa.com/t/flyabroad/1610?target=blank
+[133612]: http://bbs.fcgvisa.com/t/flyabroad/1062?target=blank
+[133511]: http://bbs.fcgvisa.com/t/flyabroad/1058?target=blank
+[133512]: http://bbs.fcgvisa.com/t/flyabroad/1059?target=blank
+[133513]: http://bbs.fcgvisa.com/t/flyabroad/1060?target=blank
+[233513]: http://bbs.fcgvisa.com/t/flyabroad/1009?target=blank
+[212315]: http://bbs.fcgvisa.com/t/flyabroad/877?target=blank
+[511112]: http://bbs.fcgvisa.com/t/flyabroad/1495?target=blank
+[133112]: http://bbs.fcgvisa.com/t/flyabroad/1047?target=blank
+[612112]: http://bbs.fcgvisa.com/t/flyabroad/1539?target=blank
+[253411]: http://bbs.fcgvisa.com/t/flyabroad/1418?target=blank
+[272399]: http://bbs.fcgvisa.com/t/flyabroad/1133?target=blank
+[272314]: http://bbs.fcgvisa.com/t/flyabroad/1132?target=blank
+[131114]: http://bbs.fcgvisa.com/t/flyabroad/1002?target=blank
+[225311]: http://bbs.fcgvisa.com/t/flyabroad/961?target=blank
+[139914]: http://bbs.fcgvisa.com/t/flyabroad/1084?target=blank
+[233213]: http://bbs.fcgvisa.com/t/flyabroad/999?target=blank
+[253918]: http://bbs.fcgvisa.com/t/flyabroad/1386?target=blank
+[313211]: http://bbs.fcgvisa.com/t/flyabroad/1196?target=blank
+[612115]: http://bbs.fcgvisa.com/t/flyabroad/1542?target=blank
+[224214]: http://bbs.fcgvisa.com/t/flyabroad/928?target=blank
+[272612]: http://bbs.fcgvisa.com/t/flyabroad/1141?target=blank
+[223112]: http://bbs.fcgvisa.com/t/flyabroad/917?target=blank
+[134412]: http://bbs.fcgvisa.com/t/flyabroad/1072?target=blank
+[254412]: http://bbs.fcgvisa.com/t/flyabroad/1360?target=blank
+[254413]: http://bbs.fcgvisa.com/t/flyabroad/1357?target=blank
+[254414]: http://bbs.fcgvisa.com/t/flyabroad/1354?target=blank
+[254415]: http://bbs.fcgvisa.com/t/flyabroad/1308?target=blank
+[254416]: http://bbs.fcgvisa.com/t/flyabroad/1307?target=blank
+[254417]: http://bbs.fcgvisa.com/t/flyabroad/1306?target=blank
+[254421]: http://bbs.fcgvisa.com/t/flyabroad/1302?target=blank
+[254418]: http://bbs.fcgvisa.com/t/flyabroad/1304?target=blank
+[254422]: http://bbs.fcgvisa.com/t/flyabroad/1300?target=blank
+[254425]: http://bbs.fcgvisa.com/t/flyabroad/1297?target=blank
+[254423]: http://bbs.fcgvisa.com/t/flyabroad/1299?target=blank
+[254424]: http://bbs.fcgvisa.com/t/flyabroad/1298?target=blank
+[254499]: http://bbs.fcgvisa.com/t/flyabroad/1296?target=blank
+[272114]: http://bbs.fcgvisa.com/t/flyabroad/1125?target=blank
+[253322]: http://bbs.fcgvisa.com/t/flyabroad/1422?target=blank
+[132511]: http://bbs.fcgvisa.com/t/flyabroad/1013?target=blank
+[253112]: http://bbs.fcgvisa.com/t/flyabroad/1434?target=blank
+[411715]: http://bbs.fcgvisa.com/t/flyabroad/1482?target=blank
+[639211]: http://bbs.fcgvisa.com/t/flyabroad/1543?target=blank
+[251513]: http://bbs.fcgvisa.com/t/flyabroad/1459?target=blank
+[253323]: http://bbs.fcgvisa.com/t/flyabroad/1421?target=blank
+[334115]: http://bbs.fcgvisa.com/t/flyabroad/1253?target=blank
+[333311]: http://bbs.fcgvisa.com/t/flyabroad/1247?target=blank
+[312611]: http://bbs.fcgvisa.com/t/flyabroad/1187?target=blank
+[131112]: http://bbs.fcgvisa.com/t/flyabroad/995?target=blank
+[134311]: http://bbs.fcgvisa.com/t/flyabroad/1070?target=blank
+[311499]: http://bbs.fcgvisa.com/t/flyabroad/1169?target=blank
+[241411]: http://bbs.fcgvisa.com/t/flyabroad/1594?target=blank
+[121322]: http://bbs.fcgvisa.com/t/flyabroad/959?target=blank
+[322211]: http://bbs.fcgvisa.com/t/flyabroad/1212?target=blank
+[231213]: http://bbs.fcgvisa.com/t/flyabroad/973?target=blank
+[399112]: http://bbs.fcgvisa.com/t/flyabroad/1368?target=blank
+[399611]: http://bbs.fcgvisa.com/t/flyabroad/1390?target=blank
+[321214]: http://bbs.fcgvisa.com/t/flyabroad/1204?target=blank
+[452314]: http://bbs.fcgvisa.com/t/flyabroad/1510?target=blank
+[272499]: http://bbs.fcgvisa.com/t/flyabroad/1138?target=blank
+[272511]: http://bbs.fcgvisa.com/t/flyabroad/1139?target=blank
+[261399]: http://bbs.fcgvisa.com/t/flyabroad/1276?target=blank
+[261313]: http://bbs.fcgvisa.com/t/flyabroad/1274?target=blank
+[261314]: http://bbs.fcgvisa.com/t/flyabroad/1275?target=blank
+[271311]: http://bbs.fcgvisa.com/t/flyabroad/1121?target=blank
+[333212]: http://bbs.fcgvisa.com/t/flyabroad/1246?target=blank
+[251214]: http://bbs.fcgvisa.com/t/flyabroad/1466?target=blank
+[399516]: http://bbs.fcgvisa.com/t/flyabroad/1385?target=blank
+[241599]: http://bbs.fcgvisa.com/t/flyabroad/1600?target=blank
+[241511]: http://bbs.fcgvisa.com/t/flyabroad/1595?target=blank
+[139999]: http://bbs.fcgvisa.com/t/flyabroad/1086?target=blank
+[253311]: http://bbs.fcgvisa.com/t/flyabroad/1431?target=blank
+[253399]: http://bbs.fcgvisa.com/t/flyabroad/1419?target=blank
+[252712]: http://bbs.fcgvisa.com/t/flyabroad/1436?target=blank
+[139915]: http://bbs.fcgvisa.com/t/flyabroad/1085?target=blank
+[149113]: http://bbs.fcgvisa.com/t/flyabroad/1102?target=blank
+[452321]: http://bbs.fcgvisa.com/t/flyabroad/1518?target=blank
+[452499]: http://bbs.fcgvisa.com/t/flyabroad/1532?target=blank
+[212316]: http://bbs.fcgvisa.com/t/flyabroad/879?target=blank
+[224113]: http://bbs.fcgvisa.com/t/flyabroad/923?target=blank
+[222213]: http://bbs.fcgvisa.com/t/flyabroad/909?target=blank
+[331112]: http://bbs.fcgvisa.com/t/flyabroad/1238?target=blank
+[233214]: http://bbs.fcgvisa.com/t/flyabroad/1000?target=blank
+[272115]: http://bbs.fcgvisa.com/t/flyabroad/1126?target=blank
+[121217]: http://bbs.fcgvisa.com/t/flyabroad/926?target=blank
+[133611]: http://bbs.fcgvisa.com/t/flyabroad/1061?target=blank
+[253511]: http://bbs.fcgvisa.com/t/flyabroad/1416?target=blank
+[312116]: http://bbs.fcgvisa.com/t/flyabroad/1175?target=blank
+[232212]: http://bbs.fcgvisa.com/t/flyabroad/979?target=blank
+[452315]: http://bbs.fcgvisa.com/t/flyabroad/1511?target=blank
+[262113]: http://bbs.fcgvisa.com/t/flyabroad/1279?target=blank
+[261112]: http://bbs.fcgvisa.com/t/flyabroad/1269?target=blank
+[221113]: http://bbs.fcgvisa.com/t/flyabroad/897?target=blank
+[249311]: http://bbs.fcgvisa.com/t/flyabroad/1611?target=blank
+[241512]: http://bbs.fcgvisa.com/t/flyabroad/1596?target=blank
+[241513]: http://bbs.fcgvisa.com/t/flyabroad/1598?target=blank
+[342212]: http://bbs.fcgvisa.com/t/flyabroad/1312?target=blank
+[212317]: http://bbs.fcgvisa.com/t/flyabroad/880?target=blank
+[225499]: http://bbs.fcgvisa.com/t/flyabroad/965?target=blank
+[212415]: http://bbs.fcgvisa.com/t/flyabroad/892?target=blank
+[263311]: http://bbs.fcgvisa.com/t/flyabroad/1287?target=blank
+[313212]: http://bbs.fcgvisa.com/t/flyabroad/1197?target=blank
+[342413]: http://bbs.fcgvisa.com/t/flyabroad/1320?target=blank
+[263312]: http://bbs.fcgvisa.com/t/flyabroad/1288?target=blank
+[313213]: http://bbs.fcgvisa.com/t/flyabroad/1198?target=blank
+[313214]: http://bbs.fcgvisa.com/t/flyabroad/1199?target=blank
+[212416]: http://bbs.fcgvisa.com/t/flyabroad/893?target=blank
+[452316]: http://bbs.fcgvisa.com/t/flyabroad/1513?target=blank
+[323215]: http://bbs.fcgvisa.com/t/flyabroad/1223?target=blank
+[253324]: http://bbs.fcgvisa.com/t/flyabroad/1420?target=blank
+[323412]: http://bbs.fcgvisa.com/t/flyabroad/1232?target=blank
+[252214]: http://bbs.fcgvisa.com/t/flyabroad/1450?target=blank
+[272413]: http://bbs.fcgvisa.com/t/flyabroad/1136?target=blank
+[149413]: http://bbs.fcgvisa.com/t/flyabroad/1109?target=blank
+[233215]: http://bbs.fcgvisa.com/t/flyabroad/1001?target=blank
+[242111]: http://bbs.fcgvisa.com/t/flyabroad/1601?target=blank
+[393311]: http://bbs.fcgvisa.com/t/flyabroad/1356?target=blank
+[232611]: http://bbs.fcgvisa.com/t/flyabroad/992?target=blank
+[253518]: http://bbs.fcgvisa.com/t/flyabroad/1405?target=blank
+[224512]: http://bbs.fcgvisa.com/t/flyabroad/935?target=blank
+[253521]: http://bbs.fcgvisa.com/t/flyabroad/1402?target=blank
+[121221]: http://bbs.fcgvisa.com/t/flyabroad/933?target=blank
+[324211]: http://bbs.fcgvisa.com/t/flyabroad/1234?target=blank
+[324311]: http://bbs.fcgvisa.com/t/flyabroad/1236?target=blank
+[324212]: http://bbs.fcgvisa.com/t/flyabroad/1235?target=blank
+[234711]: http://bbs.fcgvisa.com/t/flyabroad/1046?target=blank
+[361311]: http://bbs.fcgvisa.com/t/flyabroad/1334?target=blank
+[212318]: http://bbs.fcgvisa.com/t/flyabroad/881?target=blank
+[211499]: http://bbs.fcgvisa.com/t/flyabroad/862?target=blank
+[242211]: http://bbs.fcgvisa.com/t/flyabroad/1603?target=blank
+[333411]: http://bbs.fcgvisa.com/t/flyabroad/1248?target=blank
+[323316]: http://bbs.fcgvisa.com/t/flyabroad/1230?target=blank
+[313113]: http://bbs.fcgvisa.com/t/flyabroad/1194?target=blank
+[232414]: http://bbs.fcgvisa.com/t/flyabroad/989?target=blank
+[261212]: http://bbs.fcgvisa.com/t/flyabroad/1271?target=blank
+[322313]: http://bbs.fcgvisa.com/t/flyabroad/1215?target=blank
+[134214]: http://bbs.fcgvisa.com/t/flyabroad/1068?target=blank
+[272613]: http://bbs.fcgvisa.com/t/flyabroad/1142?target=blank
+[234213]: http://bbs.fcgvisa.com/t/flyabroad/1028?target=blank
+[394213]: http://bbs.fcgvisa.com/t/flyabroad/1362?target=blank
+[394299]: http://bbs.fcgvisa.com/t/flyabroad/1365?target=blank
+[223113]: http://bbs.fcgvisa.com/t/flyabroad/918?target=blank
+[411716]: http://bbs.fcgvisa.com/t/flyabroad/1483?target=blank
+[361114]: http://bbs.fcgvisa.com/t/flyabroad/1330?target=blank
+[234518]: http://bbs.fcgvisa.com/t/flyabroad/1043?target=blank
+
+[VETASSESS]: /ass/vet
+[VET]: /ass/vet
+[AIM]: /ass/aim
+[TRA]: /ass/tra
+[ANMAC]: /ass/anmac
+[ACWA]: /ass/acwa
+[CAANZ]: /ass/icaa
+[CPAA]: /ass/cpaa
+[ICAA]: /ass/icaa
+[IPA]: /ass/ipa
+[AACA]: /ass/aaca
+[SSSI]: /ass/sssi
+[Engineers Australia]: /ass/ea
+[EA]: /ass/ea
+[AIQS]: /ass/aiqs
+[AIMS]: /ass/aims
+[AVBC]: /ass/avbc
+[ACPSEM]: /ass/acpsem
+[AITSL]: /ass/aitsl
+[ASMIRT]: /ass/air
+[ANZSNM]: /ass/anzsnm
+[OCANZ]: /ass/ocanz
+[AOPA]: /ass/aopa
+[CCEA]: /ass/ccea
+[AOAC]: /ass/anzoc
+[OTC]: /ass/otc
+[APC]: /ass/apc
+[APodA]: /ass/apoda
+[ANZPAC]: /ass/apoda
+[ANZPAC]: /ass/anzpac
+[SPA]: /ass/spa
+[MedBA]: /ass/spa
+[ACS]: /ass/acs
+[a legal admissions authority of a State or Territory]: /ass
+[APS]: /ass/aps
+[AASW]: /ass/aasw
+[AIM]: /ass/aim
+[CASA]: /ass/casa
+[DAA]: /ass/daa
+[APharmC]: /ass/apharmc
+[Chinese Medicine Board of Australia]: /ass/cmba
+[ADC]: /ass/adc
+[NAATI]: /ass/naati
+[VETASSESS (non-medical physicist)]: /ass/vet
+[ACPSEM (medical physicists)]: /ass/acpsem
+
+[186*]: /au/186
+[186]: /au/186
+[189 (PT)]: /au/189
+[189]: /au/189
+[190]: /au/190
+[407]: /au/407
+[485 (GW)]: /au/485
+[485]: /au/485
+[489 (F)]: /au/489
+[489]: /au/489
+[489 (S/T)]: /au/489
+[TSS (M)]: /au/tss
+[TSS (M)*]: /au/tss
+[TSS (S)]: /au/tss
+[TSS (S)*]: /au/tss
+[TSS]: /au/tss
+
+[Medium and Long-term Strategic Skills List]: /au/mltssl
+[Short-term Skilled Occupation List]: /au/stsol
+[Regional Occupation List]: /au/rol
+[MLTSSL]: /au/mltssl
+[STSOL]: /au/stsol
+[ROL]: /au/rol
+[Regional]: /au/rol
+
+
+[STSOL]:/au/occupations-lists/STSOL
+[MLTSSL]:/au/occupations-lists/MLTSSL
+[​141999]: http://bbs.fcgvisa.com/t/fcg/1093?target=blank
+[221111]: http://bbs.fcgvisa.com/t/fcg/895?target=blank
+[224111]: http://bbs.fcgvisa.com/t/fcg/921?target=blank
+[252211]: http://bbs.fcgvisa.com/t/fcg/1453?target=blank
+[131113]: http://bbs.fcgvisa.com/t/fcg/998?target=blank
+[225111]: http://bbs.fcgvisa.com/t/fcg/953?target=blank
+[233911]: http://bbs.fcgvisa.com/t/fcg/1016?target=blank
+[231111]: http://bbs.fcgvisa.com/t/fcg/966?target=blank
+[234111]: http://bbs.fcgvisa.com/t/fcg/1023?target=blank
+[233912]: http://bbs.fcgvisa.com/t/fcg/1017?target=blank
+[234112]: http://bbs.fcgvisa.com/t/fcg/1024?target=blank
+[311111]: http://bbs.fcgvisa.com/t/fcg/1152?target=blank
+[334112]: http://bbs.fcgvisa.com/t/fcg/1250?target=blank
+[342111]: http://bbs.fcgvisa.com/t/fcg/1309?target=blank
+[323111]: http://bbs.fcgvisa.com/t/fcg/1216?target=blank
+[323112]: http://bbs.fcgvisa.com/t/fcg/1217?target=blank
+[323113]: http://bbs.fcgvisa.com/t/fcg/1218?target=blank
+[411111]: http://bbs.fcgvisa.com/t/fcg/1294?target=blank
+[311211]: http://bbs.fcgvisa.com/t/fcg/1153?target=blank
+[253211]: http://bbs.fcgvisa.com/t/fcg/1432?target=blank
+[261311]: http://bbs.fcgvisa.com/t/fcg/1272?target=blank
+[361199]: http://bbs.fcgvisa.com/t/fcg/1332?target=blank
+[121311]: http://bbs.fcgvisa.com/t/fcg/942?target=blank
+[121111]: http://bbs.fcgvisa.com/t/fcg/875?target=blank
+[362212]: http://bbs.fcgvisa.com/t/fcg/1337?target=blank
+[232111]: http://bbs.fcgvisa.com/t/fcg/977?target=blank
+[312111]: http://bbs.fcgvisa.com/t/fcg/1170?target=blank
+[312199]: http://bbs.fcgvisa.com/t/fcg/1176?target=blank
+[249211]: http://bbs.fcgvisa.com/t/fcg/1606?target=blank
+[212111]: http://bbs.fcgvisa.com/t/fcg/863?target=blank
+[139911]: http://bbs.fcgvisa.com/t/fcg/1081?target=blank
+[252711]: http://bbs.fcgvisa.com/t/fcg/1437?target=blank
+[321111]: http://bbs.fcgvisa.com/t/fcg/1200?target=blank
+[351111]: http://bbs.fcgvisa.com/t/fcg/1322?target=blank
+[271111]: http://bbs.fcgvisa.com/t/fcg/1115?target=blank
+[121312]: http://bbs.fcgvisa.com/t/fcg/943?target=blank
+[234513]: http://bbs.fcgvisa.com/t/fcg/1038?target=blank
+[233913]: http://bbs.fcgvisa.com/t/fcg/1018?target=blank
+[234514]: http://bbs.fcgvisa.com/t/fcg/1039?target=blank
+[399111]: http://bbs.fcgvisa.com/t/fcg/1366?target=blank
+[212212]: http://bbs.fcgvisa.com/t/fcg/870?target=blank
+[234515]: http://bbs.fcgvisa.com/t/fcg/1040?target=blank
+[331111]: http://bbs.fcgvisa.com/t/fcg/1237?target=blank
+[312112]: http://bbs.fcgvisa.com/t/fcg/1171?target=blank
+[312113]: http://bbs.fcgvisa.com/t/fcg/1172?target=blank
+[342311]: http://bbs.fcgvisa.com/t/fcg/1313?target=blank
+[351211]: http://bbs.fcgvisa.com/t/fcg/1324?target=blank
+[394111]: http://bbs.fcgvisa.com/t/fcg/1358?target=blank
+[342411]: http://bbs.fcgvisa.com/t/fcg/1318?target=blank
+[141111]: http://bbs.fcgvisa.com/t/fcg/1087?target=blank
+[399512]: http://bbs.fcgvisa.com/t/fcg/1380?target=blank
+[311212]: http://bbs.fcgvisa.com/t/fcg/1154?target=blank
+[253312]: http://bbs.fcgvisa.com/t/fcg/1430?target=blank
+[253512]: http://bbs.fcgvisa.com/t/fcg/1415?target=blank
+[272111]: http://bbs.fcgvisa.com/t/fcg/1122?target=blank
+[331212]: http://bbs.fcgvisa.com/t/fcg/1240?target=blank
+[331211]: http://bbs.fcgvisa.com/t/fcg/1239?target=blank
+[232213]: http://bbs.fcgvisa.com/t/fcg/980?target=blank
+[351311]: http://bbs.fcgvisa.com/t/fcg/1325?target=blank
+[233111]: http://bbs.fcgvisa.com/t/fcg/993?target=blank
+[399211]: http://bbs.fcgvisa.com/t/fcg/1369?target=blank
+[234211]: http://bbs.fcgvisa.com/t/fcg/1026?target=blank
+[311411]: http://bbs.fcgvisa.com/t/fcg/1164?target=blank
+[111111]: http://bbs.fcgvisa.com/t/fcg/848?target=blank
+[135111]: http://bbs.fcgvisa.com/t/fcg/1074?target=blank
+[134111]: http://bbs.fcgvisa.com/t/fcg/1063?target=blank
+[252111]: http://bbs.fcgvisa.com/t/fcg/1455?target=blank
+[233211]: http://bbs.fcgvisa.com/t/fcg/996?target=blank
+[312211]: http://bbs.fcgvisa.com/t/fcg/1177?target=blank
+[312212]: http://bbs.fcgvisa.com/t/fcg/1178?target=blank
+[253313]: http://bbs.fcgvisa.com/t/fcg/1429?target=blank
+[272311]: http://bbs.fcgvisa.com/t/fcg/1129?target=blank
+[222111]: http://bbs.fcgvisa.com/t/fcg/902?target=blank
+[411711]: http://bbs.fcgvisa.com/t/fcg/1478?target=blank
+[221211]: http://bbs.fcgvisa.com/t/fcg/898?target=blank
+[252299]: http://bbs.fcgvisa.com/t/fcg/1448?target=blank
+[263111]: http://bbs.fcgvisa.com/t/fcg/1280?target=blank
+[149311]: http://bbs.fcgvisa.com/t/fcg/1106?target=blank
+[234911]: http://bbs.fcgvisa.com/t/fcg/1048?target=blank
+[133111]: http://bbs.fcgvisa.com/t/fcg/1014?target=blank
+[511111]: http://bbs.fcgvisa.com/t/fcg/1492?target=blank
+[351411]: http://bbs.fcgvisa.com/t/fcg/1326?target=blank
+[212411]: http://bbs.fcgvisa.com/t/fcg/885?target=blank
+[111211]: http://bbs.fcgvisa.com/t/fcg/849?target=blank
+[132111]: http://bbs.fcgvisa.com/t/fcg/1003?target=blank
+[121211]: http://bbs.fcgvisa.com/t/fcg/878?target=blank
+[272199]: http://bbs.fcgvisa.com/t/fcg/1127?target=blank
+[121299]: http://bbs.fcgvisa.com/t/fcg/939?target=blank
+[149212]: http://bbs.fcgvisa.com/t/fcg/1105?target=blank
+[121313]: http://bbs.fcgvisa.com/t/fcg/944?target=blank
+[249212]: http://bbs.fcgvisa.com/t/fcg/1607?target=blank
+[211112]: http://bbs.fcgvisa.com/t/fcg/914?target=blank
+[262111]: http://bbs.fcgvisa.com/t/fcg/1277?target=blank
+[252311]: http://bbs.fcgvisa.com/t/fcg/1447?target=blank
+[411213]: http://bbs.fcgvisa.com/t/fcg/1412?target=blank
+[252312]: http://bbs.fcgvisa.com/t/fcg/1446?target=blank
+[253911]: http://bbs.fcgvisa.com/t/fcg/1400?target=blank
+[261312]: http://bbs.fcgvisa.com/t/fcg/1273?target=blank
+[253917]: http://bbs.fcgvisa.com/t/fcg/1388?target=blank
+[321212]: http://bbs.fcgvisa.com/t/fcg/1202?target=blank
+[251111]: http://bbs.fcgvisa.com/t/fcg/1471?target=blank
+[212312]: http://bbs.fcgvisa.com/t/fcg/872?target=blank
+[411712]: http://bbs.fcgvisa.com/t/fcg/1479?target=blank
+[411311]: http://bbs.fcgvisa.com/t/fcg/1472?target=blank
+[452311]: http://bbs.fcgvisa.com/t/fcg/1504?target=blank
+[361111]: http://bbs.fcgvisa.com/t/fcg/1327?target=blank
+[334113]: http://bbs.fcgvisa.com/t/fcg/1251?target=blank
+[393213]: http://bbs.fcgvisa.com/t/fcg/1353?target=blank
+[272112]: http://bbs.fcgvisa.com/t/fcg/1123?target=blank
+[241111]: http://bbs.fcgvisa.com/t/fcg/1587?target=blank
+[311412]: http://bbs.fcgvisa.com/t/fcg/1165?target=blank
+[224311]: http://bbs.fcgvisa.com/t/fcg/930?target=blank
+[249111]: http://bbs.fcgvisa.com/t/fcg/1604?target=blank
+[134499]: http://bbs.fcgvisa.com/t/fcg/1073?target=blank
+[272312]: http://bbs.fcgvisa.com/t/fcg/1130?target=blank
+[233311]: http://bbs.fcgvisa.com/t/fcg/1005?target=blank
+[312311]: http://bbs.fcgvisa.com/t/fcg/1179?target=blank
+[312312]: http://bbs.fcgvisa.com/t/fcg/1180?target=blank
+[341111]: http://bbs.fcgvisa.com/t/fcg/1301?target=blank
+[341112]: http://bbs.fcgvisa.com/t/fcg/1303?target=blank
+[342313]: http://bbs.fcgvisa.com/t/fcg/1315?target=blank
+[342314]: http://bbs.fcgvisa.com/t/fcg/1316?target=blank
+[342315]: http://bbs.fcgvisa.com/t/fcg/1317?target=blank
+[233411]: http://bbs.fcgvisa.com/t/fcg/1006?target=blank
+[253912]: http://bbs.fcgvisa.com/t/fcg/1397?target=blank
+[253315]: http://bbs.fcgvisa.com/t/fcg/1427?target=blank
+[133211]: http://bbs.fcgvisa.com/t/fcg/1054?target=blank
+[233999]: http://bbs.fcgvisa.com/t/fcg/1022?target=blank
+[233914]: http://bbs.fcgvisa.com/t/fcg/1019?target=blank
+[411411]: http://bbs.fcgvisa.com/t/fcg/1473?target=blank
+[234312]: http://bbs.fcgvisa.com/t/fcg/1030?target=blank
+[233915]: http://bbs.fcgvisa.com/t/fcg/1020?target=blank
+[139912]: http://bbs.fcgvisa.com/t/fcg/1082?target=blank
+[234313]: http://bbs.fcgvisa.com/t/fcg/1031?target=blank
+[234399]: http://bbs.fcgvisa.com/t/fcg/1033?target=blank
+[221213]: http://bbs.fcgvisa.com/t/fcg/900?target=blank
+[149913]: http://bbs.fcgvisa.com/t/fcg/1112?target=blank
+[134411]: http://bbs.fcgvisa.com/t/fcg/1071?target=blank
+[272113]: http://bbs.fcgvisa.com/t/fcg/1124?target=blank
+[411713]: http://bbs.fcgvisa.com/t/fcg/1480?target=blank
+[322113]: http://bbs.fcgvisa.com/t/fcg/1207?target=blank
+[232311]: http://bbs.fcgvisa.com/t/fcg/982?target=blank
+[333211]: http://bbs.fcgvisa.com/t/fcg/1245?target=blank
+[212314]: http://bbs.fcgvisa.com/t/fcg/876?target=blank
+[222112]: http://bbs.fcgvisa.com/t/fcg/904?target=blank
+[132211]: http://bbs.fcgvisa.com/t/fcg/1004?target=blank
+[222199]: http://bbs.fcgvisa.com/t/fcg/906?target=blank
+[222299]: http://bbs.fcgvisa.com/t/fcg/910?target=blank
+[222311]: http://bbs.fcgvisa.com/t/fcg/911?target=blank
+[222312]: http://bbs.fcgvisa.com/t/fcg/915?target=blank
+[222211]: http://bbs.fcgvisa.com/t/fcg/907?target=blank
+[149112]: http://bbs.fcgvisa.com/t/fcg/1101?target=blank
+[323212]: http://bbs.fcgvisa.com/t/fcg/1220?target=blank
+[323211]: http://bbs.fcgvisa.com/t/fcg/1219?target=blank
+[323213]: http://bbs.fcgvisa.com/t/fcg/1221?target=blank
+[362111]: http://bbs.fcgvisa.com/t/fcg/1335?target=blank
+[121212]: http://bbs.fcgvisa.com/t/fcg/882?target=blank
+[231113]: http://bbs.fcgvisa.com/t/fcg/968?target=blank
+[234212]: http://bbs.fcgvisa.com/t/fcg/1027?target=blank
+[452411]: http://bbs.fcgvisa.com/t/fcg/1524?target=blank
+[234113]: http://bbs.fcgvisa.com/t/fcg/1025?target=blank
+[121213]: http://bbs.fcgvisa.com/t/fcg/884?target=blank
+[394211]: http://bbs.fcgvisa.com/t/fcg/1359?target=blank
+[224212]: http://bbs.fcgvisa.com/t/fcg/925?target=blank
+[362211]: http://bbs.fcgvisa.com/t/fcg/1336?target=blank
+[334114]: http://bbs.fcgvisa.com/t/fcg/1252?target=blank
+[253316]: http://bbs.fcgvisa.com/t/fcg/1426?target=blank
+[253111]: http://bbs.fcgvisa.com/t/fcg/1435?target=blank
+[234411]: http://bbs.fcgvisa.com/t/fcg/1034?target=blank
+[234412]: http://bbs.fcgvisa.com/t/fcg/1035?target=blank
+[233212]: http://bbs.fcgvisa.com/t/fcg/997?target=blank
+[333111]: http://bbs.fcgvisa.com/t/fcg/1244?target=blank
+[121214]: http://bbs.fcgvisa.com/t/fcg/886?target=blank
+[121215]: http://bbs.fcgvisa.com/t/fcg/891?target=blank
+[232411]: http://bbs.fcgvisa.com/t/fcg/985?target=blank
+[362311]: http://bbs.fcgvisa.com/t/fcg/1339?target=blank
+[452312]: http://bbs.fcgvisa.com/t/fcg/1506?target=blank
+[142114]: http://bbs.fcgvisa.com/t/fcg/1097?target=blank
+[391111]: http://bbs.fcgvisa.com/t/fcg/1341?target=blank
+[313111]: http://bbs.fcgvisa.com/t/fcg/1192?target=blank
+[134299]: http://bbs.fcgvisa.com/t/fcg/1069?target=blank
+[251999]: http://bbs.fcgvisa.com/t/fcg/1456?target=blank
+[224213]: http://bbs.fcgvisa.com/t/fcg/927?target=blank
+[251911]: http://bbs.fcgvisa.com/t/fcg/1458?target=blank
+[231114]: http://bbs.fcgvisa.com/t/fcg/969?target=blank
+[121316]: http://bbs.fcgvisa.com/t/fcg/947?target=blank
+[452313]: http://bbs.fcgvisa.com/t/fcg/1507?target=blank
+[361112]: http://bbs.fcgvisa.com/t/fcg/1328?target=blank
+[251511]: http://bbs.fcgvisa.com/t/fcg/1461?target=blank
+[141311]: http://bbs.fcgvisa.com/t/fcg/1089?target=blank
+[132311]: http://bbs.fcgvisa.com/t/fcg/1011?target=blank
+[234413]: http://bbs.fcgvisa.com/t/fcg/13037?target=blank
+[225211]: http://bbs.fcgvisa.com/t/fcg/957?target=blank
+[261111]: http://bbs.fcgvisa.com/t/fcg/1268?target=blank
+[225212]: http://bbs.fcgvisa.com/t/fcg/958?target=blank
+[313112]: http://bbs.fcgvisa.com/t/fcg/1193?target=blank
+[135199]: http://bbs.fcgvisa.com/t/fcg/1076?target=blank
+[135112]: http://bbs.fcgvisa.com/t/fcg/1075?target=blank
+[263211]: http://bbs.fcgvisa.com/t/fcg/1283?target=blank
+[225213]: http://bbs.fcgvisa.com/t/fcg/960?target=blank
+[262112]: http://bbs.fcgvisa.com/t/fcg/1278?target=blank
+[263212]: http://bbs.fcgvisa.com/t/fcg/1284?target=blank
+[263299]: http://bbs.fcgvisa.com/t/fcg/1286?target=blank
+[​313199]: http://bbs.fcgvisa.com/t/313199-ict-support-technicians-nec/1195
+[263213]: http://bbs.fcgvisa.com/t/fcg/1285?target=blank
+[223211]: http://bbs.fcgvisa.com/t/fcg/919?target=blank
+[232412]: http://bbs.fcgvisa.com/t/fcg/986?target=blank
+[232312]: http://bbs.fcgvisa.com/t/fcg/983?target=blank
+[233511]: http://bbs.fcgvisa.com/t/fcg/1007?target=blank
+[251512]: http://bbs.fcgvisa.com/t/fcg/1460?target=blank
+[224999]: http://bbs.fcgvisa.com/t/fcg/951?target=blank
+[611211]: http://bbs.fcgvisa.com/t/fcg/1537?target=blank
+[222113]: http://bbs.fcgvisa.com/t/fcg/905?target=blank
+[599612]: http://bbs.fcgvisa.com/t/fcg/1531?target=blank
+[411112]: http://bbs.fcgvisa.com/t/fcg/1295?target=blank
+[253317]: http://bbs.fcgvisa.com/t/fcg/1425?target=blank
+[232511]: http://bbs.fcgvisa.com/t/fcg/990?target=blank
+[221214]: http://bbs.fcgvisa.com/t/fcg/901?target=blank
+[272412]: http://bbs.fcgvisa.com/t/fcg/1135?target=blank
+[399411]: http://bbs.fcgvisa.com/t/fcg/1377?target=blank
+[232313]: http://bbs.fcgvisa.com/t/fcg/984?target=blank
+[331213]: http://bbs.fcgvisa.com/t/fcg/1241?target=blank
+[212499]: http://bbs.fcgvisa.com/t/fcg/894?target=blank
+[271299]: http://bbs.fcgvisa.com/t/fcg/1120?target=blank
+[139913]: http://bbs.fcgvisa.com/t/fcg/1083?target=blank
+[224511]: http://bbs.fcgvisa.com/t/fcg/934?target=blank
+[232112]: http://bbs.fcgvisa.com/t/fcg/978?target=blank
+[362213]: http://bbs.fcgvisa.com/t/fcg/1338?target=blank
+[224611]: http://bbs.fcgvisa.com/t/fcg/936?target=blank
+[399312]: http://bbs.fcgvisa.com/t/fcg/1374?target=blank
+[311413]: http://bbs.fcgvisa.com/t/fcg/1166?target=blank
+[234511]: http://bbs.fcgvisa.com/t/fcg/1036?target=blank
+[234599]: http://bbs.fcgvisa.com/t/fcg/1044?target=blank
+[341113]: http://bbs.fcgvisa.com/t/fcg/1305?target=blank
+[121399]: http://bbs.fcgvisa.com/t/fcg/988?target=blank
+[323313]: http://bbs.fcgvisa.com/t/fcg/1227?target=blank
+[399514]: http://bbs.fcgvisa.com/t/fcg/1383?target=blank
+[221112]: http://bbs.fcgvisa.com/t/fcg/896?target=blank
+[224711]: http://bbs.fcgvisa.com/t/fcg/937?target=blank
+[133411]: http://bbs.fcgvisa.com/t/fcg/1057?target=blank
+[234516]: http://bbs.fcgvisa.com/t/fcg/1041?target=blank
+[225113]: http://bbs.fcgvisa.com/t/fcg/956?target=blank
+[411611]: http://bbs.fcgvisa.com/t/fcg/1477?target=blank
+[233112]: http://bbs.fcgvisa.com/t/fcg/994?target=blank
+[224112]: http://bbs.fcgvisa.com/t/fcg/922?target=blank
+[311312]: http://bbs.fcgvisa.com/t/fcg/1161?target=blank
+[233512]: http://bbs.fcgvisa.com/t/fcg/1008?target=blank
+[312512]: http://bbs.fcgvisa.com/t/fcg/1184?target=blank
+[251211]: http://bbs.fcgvisa.com/t/fcg/1469?target=blank
+[234611]: http://bbs.fcgvisa.com/t/fcg/1045?target=blank
+[311213]: http://bbs.fcgvisa.com/t/fcg/1155?target=blank
+[253314]: http://bbs.fcgvisa.com/t/fcg/1428?target=blank
+[253999]: http://bbs.fcgvisa.com/t/fcg/1382?target=blank
+[251212]: http://bbs.fcgvisa.com/t/fcg/1468?target=blank
+[311299]: http://bbs.fcgvisa.com/t/fcg/1159?target=blank
+[322311]: http://bbs.fcgvisa.com/t/fcg/1213?target=blank
+[323299]: http://bbs.fcgvisa.com/t/fcg/1224?target=blank
+[323214]: http://bbs.fcgvisa.com/t/fcg/1222?target=blank
+[312912]: http://bbs.fcgvisa.com/t/fcg/1189?target=blank
+[234912]: http://bbs.fcgvisa.com/t/fcg/1049?target=blank
+[234913]: http://bbs.fcgvisa.com/t/fcg/1050?target=blank
+[234517]: http://bbs.fcgvisa.com/t/fcg/1042?target=blank
+[241311]: http://bbs.fcgvisa.com/t/fcg/1593?target=blank
+[254111]: http://bbs.fcgvisa.com/t/fcg/1379?target=blank
+[312913]: http://bbs.fcgvisa.com/t/fcg/1190?target=blank
+[233611]: http://bbs.fcgvisa.com/t/fcg/1010?target=blank
+[121411]: http://bbs.fcgvisa.com/t/fcg/991?target=blank
+[121216]: http://bbs.fcgvisa.com/t/fcg/903?target=blank
+[121317]: http://bbs.fcgvisa.com/t/fcg/948?target=blank
+[321211]: http://bbs.fcgvisa.com/t/fcg/1201?target=blank
+[321213]: http://bbs.fcgvisa.com/t/fcg/1203?target=blank
+[261211]: http://bbs.fcgvisa.com/t/fcg/1270?target=blank
+[211212]: http://bbs.fcgvisa.com/t/fcg/853?target=blank
+[211299]: http://bbs.fcgvisa.com/t/fcg/856?target=blank
+[249214]: http://bbs.fcgvisa.com/t/fcg/1609?target=blank
+[211213]: http://bbs.fcgvisa.com/t/fcg/854?target=blank
+[234999]: http://bbs.fcgvisa.com/t/fcg/1052?target=blank
+[252213]: http://bbs.fcgvisa.com/t/fcg/1451?target=blank
+[233916]: http://bbs.fcgvisa.com/t/fcg/1021?target=blank
+[263112]: http://bbs.fcgvisa.com/t/fcg/1281?target=blank
+[263113]: http://bbs.fcgvisa.com/t/fcg/1282?target=blank
+[253318]: http://bbs.fcgvisa.com/t/fcg/1424?target=blank
+[253513]: http://bbs.fcgvisa.com/t/fcg/1414?target=blank
+[212412]: http://bbs.fcgvisa.com/t/fcg/887?target=blank
+[251213]: http://bbs.fcgvisa.com/t/fcg/1467?target=blank
+[254211]: http://bbs.fcgvisa.com/t/fcg/1375?target=blank
+[254311]: http://bbs.fcgvisa.com/t/fcg/1367?target=blank
+[254411]: http://bbs.fcgvisa.com/t/fcg/1364?target=blank
+[254212]: http://bbs.fcgvisa.com/t/fcg/1371?target=blank
+[134212]: http://bbs.fcgvisa.com/t/fcg/1065?target=blank
+[251112]: http://bbs.fcgvisa.com/t/fcg/1470?target=blank
+[253913]: http://bbs.fcgvisa.com/t/fcg/1395?target=blank
+[251312]: http://bbs.fcgvisa.com/t/fcg/1464?target=blank
+[252411]: http://bbs.fcgvisa.com/t/fcg/1445?target=blank
+[253914]: http://bbs.fcgvisa.com/t/fcg/1393?target=blank
+[251411]: http://bbs.fcgvisa.com/t/fcg/1463?target=blank
+[224712]: http://bbs.fcgvisa.com/t/fcg/938?target=blank
+[272313]: http://bbs.fcgvisa.com/t/fcg/1131?target=blank
+[253514]: http://bbs.fcgvisa.com/t/fcg/1413?target=blank
+[251412]: http://bbs.fcgvisa.com/t/fcg/1462?target=blank
+[251912]: http://bbs.fcgvisa.com/t/fcg/1457?target=blank
+[252112]: http://bbs.fcgvisa.com/t/fcg/1454?target=blank
+[232214]: http://bbs.fcgvisa.com/t/fcg/981?target=blank
+[452317]: http://bbs.fcgvisa.com/t/fcg/1515?target=blank
+[253515]: http://bbs.fcgvisa.com/t/fcg/1411?target=blank
+[253516]: http://bbs.fcgvisa.com/t/fcg/1410?target=blank
+[253321]: http://bbs.fcgvisa.com/t/fcg/1423?target=blank
+[332211]: http://bbs.fcgvisa.com/t/fcg/1243?target=blank
+[324111]: http://bbs.fcgvisa.com/t/fcg/1233?target=blank
+[351112]: http://bbs.fcgvisa.com/t/fcg/1323?target=blank
+[224914]: http://bbs.fcgvisa.com/t/fcg/950?target=blank
+[253915]: http://bbs.fcgvisa.com/t/fcg/1391?target=blank
+[399599]: http://bbs.fcgvisa.com/t/fcg/1389?target=blank
+[233612]: http://bbs.fcgvisa.com/t/fcg/1015?target=blank
+[311215]: http://bbs.fcgvisa.com/t/fcg/1157?target=blank
+[211311]: http://bbs.fcgvisa.com/t/fcg/857?target=blank
+[234914]: http://bbs.fcgvisa.com/t/fcg/1051?target=blank
+[252511]: http://bbs.fcgvisa.com/t/fcg/1444?target=blank
+[121318]: http://bbs.fcgvisa.com/t/fcg/952?target=blank
+[253517]: http://bbs.fcgvisa.com/t/fcg/1408?target=blank
+[334111]: http://bbs.fcgvisa.com/t/fcg/1249?target=blank
+[252611]: http://bbs.fcgvisa.com/t/fcg/1443?target=blank
+[142115]: http://bbs.fcgvisa.com/t/fcg/1098?target=blank
+[121321]: http://bbs.fcgvisa.com/t/fcg/955?target=blank
+[399213]: http://bbs.fcgvisa.com/t/fcg/1372?target=blank
+[323314]: http://bbs.fcgvisa.com/t/fcg/1228?target=blank
+[134213]: http://bbs.fcgvisa.com/t/fcg/1067?target=blank
+[311399]: http://bbs.fcgvisa.com/t/fcg/1163?target=blank
+[241213]: http://bbs.fcgvisa.com/t/fcg/1592?target=blank
+[392111]: http://bbs.fcgvisa.com/t/fcg/1342?target=blank
+[212413]: http://bbs.fcgvisa.com/t/fcg/888?target=blank
+[392311]: http://bbs.fcgvisa.com/t/fcg/1345?target=blank
+[249299]: http://bbs.fcgvisa.com/t/fcg/1610?target=blank
+[133511]: http://bbs.fcgvisa.com/t/fcg/1058?target=blank
+[133512]: http://bbs.fcgvisa.com/t/fcg/1059?target=blank
+[133513]: http://bbs.fcgvisa.com/t/fcg/1060?target=blank
+[233513]: http://bbs.fcgvisa.com/t/fcg/1009?target=blank
+[212315]: http://bbs.fcgvisa.com/t/fcg/877?target=blank
+[511112]: http://bbs.fcgvisa.com/t/fcg/1495?target=blank
+[253411]: http://bbs.fcgvisa.com/t/fcg/1418?target=blank
+[272399]: http://bbs.fcgvisa.com/t/fcg/1133?target=blank
+[225311]: http://bbs.fcgvisa.com/t/fcg/961?target=blank
+[139914]: http://bbs.fcgvisa.com/t/fcg/1084?target=blank
+[233213]: http://bbs.fcgvisa.com/t/fcg/999?target=blank
+[253918]: http://bbs.fcgvisa.com/t/fcg/1386?target=blank
+[313211]: http://bbs.fcgvisa.com/t/fcg/1196?target=blank
+[224214]: http://bbs.fcgvisa.com/t/fcg/928?target=blank
+[272612]: http://bbs.fcgvisa.com/t/fcg/1141?target=blank
+[223112]: http://bbs.fcgvisa.com/t/fcg/917?target=blank
+[254412]: http://bbs.fcgvisa.com/t/fcg/1360?target=blank
+[254413]: http://bbs.fcgvisa.com/t/fcg/1357?target=blank
+[254414]: http://bbs.fcgvisa.com/t/fcg/1354?target=blank
+[254415]: http://bbs.fcgvisa.com/t/fcg/1308?target=blank
+[254416]: http://bbs.fcgvisa.com/t/fcg/1307?target=blank
+[254417]: http://bbs.fcgvisa.com/t/fcg/1306?target=blank
+[254421]: http://bbs.fcgvisa.com/t/fcg/1302?target=blank
+[254418]: http://bbs.fcgvisa.com/t/fcg/1304?target=blank
+[254422]: http://bbs.fcgvisa.com/t/fcg/1300?target=blank
+[254425]: http://bbs.fcgvisa.com/t/fcg/1297?target=blank
+[254423]: http://bbs.fcgvisa.com/t/fcg/1299?target=blank
+[254424]: http://bbs.fcgvisa.com/t/fcg/1298?target=blank
+[254499]: http://bbs.fcgvisa.com/t/fcg/1296?target=blank
+[272114]: http://bbs.fcgvisa.com/t/fcg/1125?target=blank
+[253322]: http://bbs.fcgvisa.com/t/fcg/1422?target=blank
+[132511]: http://bbs.fcgvisa.com/t/fcg/1013?target=blank
+[253112]: http://bbs.fcgvisa.com/t/fcg/1434?target=blank
+[411715]: http://bbs.fcgvisa.com/t/fcg/1482?target=blank
+[639211]: http://bbs.fcgvisa.com/t/fcg/1543?target=blank
+[251513]: http://bbs.fcgvisa.com/t/fcg/1459?target=blank
+[253323]: http://bbs.fcgvisa.com/t/fcg/1421?target=blank
+[334115]: http://bbs.fcgvisa.com/t/fcg/1253?target=blank
+[333311]: http://bbs.fcgvisa.com/t/fcg/1247?target=blank
+[131112]: http://bbs.fcgvisa.com/t/fcg/995?target=blank
+[134311]: http://bbs.fcgvisa.com/t/fcg/1070?target=blank
+[311499]: http://bbs.fcgvisa.com/t/fcg/1169?target=blank
+[241411]: http://bbs.fcgvisa.com/t/fcg/1594?target=blank
+[121322]: http://bbs.fcgvisa.com/t/fcg/959?target=blank
+[322211]: http://bbs.fcgvisa.com/t/fcg/1212?target=blank
+[399112]: http://bbs.fcgvisa.com/t/fcg/1368?target=blank
+[399611]: http://bbs.fcgvisa.com/t/fcg/1390?target=blank
+[321214]: http://bbs.fcgvisa.com/t/fcg/1204?target=blank
+[452314]: http://bbs.fcgvisa.com/t/fcg/1510?target=blank
+[272499]: http://bbs.fcgvisa.com/t/fcg/1138?target=blank
+[272511]: http://bbs.fcgvisa.com/t/fcg/1139?target=blank
+[261399]: http://bbs.fcgvisa.com/t/fcg/1276?target=blank
+[261313]: http://bbs.fcgvisa.com/t/fcg/1274?target=blank
+[261314]: http://bbs.fcgvisa.com/t/fcg/1275?target=blank
+[271311]: http://bbs.fcgvisa.com/t/fcg/1121?target=blank
+[333212]: http://bbs.fcgvisa.com/t/fcg/1246?target=blank
+[251214]: http://bbs.fcgvisa.com/t/fcg/1466?target=blank
+[399516]: http://bbs.fcgvisa.com/t/fcg/1385?target=blank
+[241599]: http://bbs.fcgvisa.com/t/fcg/1600?target=blank
+[241511]: http://bbs.fcgvisa.com/t/fcg/1595?target=blank
+[139999]: http://bbs.fcgvisa.com/t/fcg/1086?target=blank
+[253311]: http://bbs.fcgvisa.com/t/fcg/1431?target=blank
+[253399]: http://bbs.fcgvisa.com/t/fcg/1419?target=blank
+[252712]: http://bbs.fcgvisa.com/t/fcg/1436?target=blank
+[149113]: http://bbs.fcgvisa.com/t/fcg/1102?target=blank
+[452321]: http://bbs.fcgvisa.com/t/fcg/1518?target=blank
+[452499]: http://bbs.fcgvisa.com/t/fcg/1532?target=blank
+[212316]: http://bbs.fcgvisa.com/t/fcg/879?target=blank
+[224113]: http://bbs.fcgvisa.com/t/fcg/923?target=blank
+[222213]: http://bbs.fcgvisa.com/t/fcg/909?target=blank
+[331112]: http://bbs.fcgvisa.com/t/fcg/1238?target=blank
+[233214]: http://bbs.fcgvisa.com/t/fcg/1000?target=blank
+[272115]: http://bbs.fcgvisa.com/t/fcg/1126?target=blank
+[121217]: http://bbs.fcgvisa.com/t/fcg/926?target=blank
+[133611]: http://bbs.fcgvisa.com/t/fcg/1061?target=blank
+[253511]: http://bbs.fcgvisa.com/t/fcg/1416?target=blank
+[232212]: http://bbs.fcgvisa.com/t/fcg/979?target=blank
+[452315]: http://bbs.fcgvisa.com/t/fcg/1511?target=blank
+[262113]: http://bbs.fcgvisa.com/t/fcg/1279?target=blank
+[261112]: http://bbs.fcgvisa.com/t/fcg/1269?target=blank
+[221113]: http://bbs.fcgvisa.com/t/fcg/897?target=blank
+[249311]: http://bbs.fcgvisa.com/t/fcg/1611?target=blank
+[241512]: http://bbs.fcgvisa.com/t/fcg/1596?target=blank
+[241513]: http://bbs.fcgvisa.com/t/fcg/1598?target=blank
+[342212]: http://bbs.fcgvisa.com/t/fcg/1312?target=blank
+[212317]: http://bbs.fcgvisa.com/t/fcg/880?target=blank
+[225499]: http://bbs.fcgvisa.com/t/fcg/965?target=blank
+[212415]: http://bbs.fcgvisa.com/t/fcg/892?target=blank
+[263311]: http://bbs.fcgvisa.com/t/fcg/1287?target=blank
+[313212]: http://bbs.fcgvisa.com/t/fcg/1197?target=blank
+[342413]: http://bbs.fcgvisa.com/t/fcg/1320?target=blank
+[263312]: http://bbs.fcgvisa.com/t/fcg/1288?target=blank
+[313214]: http://bbs.fcgvisa.com/t/fcg/1199?target=blank
+[212416]: http://bbs.fcgvisa.com/t/fcg/893?target=blank
+[452316]: http://bbs.fcgvisa.com/t/fcg/1513?target=blank
+[323215]: http://bbs.fcgvisa.com/t/fcg/1223?target=blank
+[253324]: http://bbs.fcgvisa.com/t/fcg/1420?target=blank
+[323412]: http://bbs.fcgvisa.com/t/fcg/1232?target=blank
+[252214]: http://bbs.fcgvisa.com/t/fcg/1450?target=blank
+[149413]: http://bbs.fcgvisa.com/t/fcg/1109?target=blank
+[233215]: http://bbs.fcgvisa.com/t/fcg/1001?target=blank
+[242111]: http://bbs.fcgvisa.com/t/fcg/1601?target=blank
+[393311]: http://bbs.fcgvisa.com/t/fcg/1356?target=blank
+[232611]: http://bbs.fcgvisa.com/t/fcg/992?target=blank
+[253518]: http://bbs.fcgvisa.com/t/fcg/1405?target=blank
+[224512]: http://bbs.fcgvisa.com/t/fcg/935?target=blank
+[253521]: http://bbs.fcgvisa.com/t/fcg/1402?target=blank
+[121221]: http://bbs.fcgvisa.com/t/fcg/933?target=blank
+[324211]: http://bbs.fcgvisa.com/t/fcg/1234?target=blank
+[324212]: http://bbs.fcgvisa.com/t/fcg/1235?target=blank
+[234711]: http://bbs.fcgvisa.com/t/fcg/1046?target=blank
+[361311]: http://bbs.fcgvisa.com/t/fcg/1334?target=blank
+[212318]: http://bbs.fcgvisa.com/t/fcg/881?target=blank
+[211499]: http://bbs.fcgvisa.com/t/fcg/862?target=blank
+[333411]: http://bbs.fcgvisa.com/t/fcg/1248?target=blank
+[323316]: http://bbs.fcgvisa.com/t/fcg/1230?target=blank
+[313113]: http://bbs.fcgvisa.com/t/fcg/1194?target=blank
+[232414]: http://bbs.fcgvisa.com/t/fcg/989?target=blank
+[261212]: http://bbs.fcgvisa.com/t/fcg/1271?target=blank
+[322313]: http://bbs.fcgvisa.com/t/fcg/1215?target=blank
+[134214]: http://bbs.fcgvisa.com/t/fcg/1068?target=blank
+[272613]: http://bbs.fcgvisa.com/t/fcg/1142?target=blank
+[234213]: http://bbs.fcgvisa.com/t/fcg/1028?target=blank
+[394213]: http://bbs.fcgvisa.com/t/fcg/1362?target=blank
+[394299]: http://bbs.fcgvisa.com/t/fcg/1365?target=blank
+[411716]: http://bbs.fcgvisa.com/t/fcg/1483?target=blank
+[234518]: http://bbs.fcgvisa.com/t/fcg/1043?target=blank
+
+[MLTSSL]:/au/occupations-lists/MLTSSL
+[STSOL]:/au/occupations-lists/STSOL
+[189]:/au/skilled/189
+[MLTSSL]:/au/occupations-lists/MLTSSL
+[190]:/au/skilled/190
+[STSOL]:/au/occupations-lists/STSOL
+[489]:/au/skilled/489
+[EOI]:/au/skilledselect/EOI
+[SA州担保职业列表]:/au/sa/SA-state-occupation
+[SA补充职业列表]:/au/sa/SA-supplementary-list
